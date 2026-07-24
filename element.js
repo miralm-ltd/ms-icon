@@ -34,8 +34,8 @@ export const define = (name, svg) => {
       createStyleSheet(css, shadowRoot)
     }
     connectedCallback() {
-      for (const key in options) {
-        if (!this.hasAttribute(key)) this.setAttribute(key, options[key])
+      for (const key in options.attributes) {
+        if (!this.hasAttribute(key)) this.setAttribute(key, options.attributes[key])
       }
     }
   }

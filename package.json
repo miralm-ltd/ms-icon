@@ -1,6 +1,6 @@
 {
   "name": "material-symbols-icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/main.js",
   "type": "module",
   "scripts": {
@@ -45,5 +45,8 @@
       "type": "individual",
       "url": "https://ifdian.net/a/apprat"
     }
-  ]
+  ],
+  "dependencies": {
+    "material-symbols-icons": "^0.0.1"
+  }
 }
