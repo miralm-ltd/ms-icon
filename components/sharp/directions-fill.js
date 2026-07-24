@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-directions-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-360h80v-120h140v100l140-140-140-140v100H320v200ZM480-48 48-480l432-432 432 432L480-48Z"/></svg>');

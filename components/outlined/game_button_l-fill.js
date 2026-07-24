@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-game_button_l-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-480q0-66 47-113t113-47h480q66 0 113 47t47 113v480H80Zm343-179h174v-52H478v-229h-55v281Z"/></svg>');

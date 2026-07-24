@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-more_down', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-200v-440h80v360h360v80H200Zm200-200v-440h80v360h360v80H400Z"/></svg>');

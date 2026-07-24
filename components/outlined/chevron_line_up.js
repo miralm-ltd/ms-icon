@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-chevron_line_up', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-640v-80h480v80H240Zm56 416-56-56 240-240 240 240-56 56-184-184-184 184Z"/></svg>');

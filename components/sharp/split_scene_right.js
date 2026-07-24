@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-split_scene_right', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-160v-640h240v80H200v480h160v80H120Zm320 80v-800h80v80h320v640H520v80h-80ZM200-240v-480 480Z"/></svg>');

@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-more-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-160 80-480l240-320h560v640H320Zm40-280h80v-80h-80v80Zm140 0h80v-80h-80v80Zm140 0h80v-80h-80v80Z"/></svg>');

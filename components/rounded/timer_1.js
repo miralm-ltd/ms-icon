@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-rounded-timer_1', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M497.5-217.5Q480-235 480-260v-380H380q-25 0-42.5-17.5T320-700q0-25 17.5-42.5T380-760h140q33 0 56.5 23.5T600-680v420q0 25-17.5 42.5T540-200q-25 0-42.5-17.5Z"/></svg>');

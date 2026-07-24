@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-monitor_weight', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M565-515q35-35 35-85t-35-85q-35-35-85-35t-85 35q-35 35-35 85t35 85q35 35 85 35t85-35Zm-165-65v-40h40v40h-40Zm60 0v-40h40v40h-40Zm60 0v-40h40v40h-40ZM120-120v-720h720v720H120Zm80-80h560v-560H200v560Zm0 0v-560 560Z"/></svg>');

@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-video_label', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-640h800v640H80Zm80-200h640v-360H160v360Z"/></svg>');

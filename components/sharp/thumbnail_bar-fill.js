@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-thumbnail_bar-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-640h240v640H80Zm320 0v-640h480v640H400Z"/></svg>');

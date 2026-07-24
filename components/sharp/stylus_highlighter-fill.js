@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-stylus_highlighter-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-320v-520h99l301 149v371H280ZM160-120l40-120h560l40 120H160Z"/></svg>');

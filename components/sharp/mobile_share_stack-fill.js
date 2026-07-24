@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-mobile_share_stack-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-40v-720h80v640h400v80H160Zm160-160v-720h480v162h40v156h-40v402H320Zm120-280h60v-70h66l-28 28 42 42 100-100-100-100-42 42 28 28H440v130Z"/></svg>');

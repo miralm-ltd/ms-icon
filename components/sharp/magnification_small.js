@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-magnification_small', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-520h160v-160H200v160ZM80-160v-640h800v640H80Zm80-80h640v-480H160v480Zm0 0v-480 480Z"/></svg>');

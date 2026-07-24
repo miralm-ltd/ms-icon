@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-rounded-grid_layout_side-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M840-120v-720 720Zm-640 0h240q33 0 56.5-23.5T520-200v-560q0-33-23.5-56.5T440-840H200q-33 0-56.5 23.5T120-760v560q0 33 23.5 56.5T200-120Zm640-80v-560q0-33-23.5-56.5T760-840h-80q-33 0-56.5 23.5T600-760v560q0 33 23.5 56.5T680-120h80q33 0 56.5-23.5T840-200Z"/></svg>');

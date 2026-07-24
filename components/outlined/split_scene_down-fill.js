@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-split_scene_down-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-600v-160q0-33 23.5-56.5T240-840h480q33 0 56.5 23.5T800-760v160H160Zm80 480q-33 0-56.5-23.5T160-200v-240H80v-80h800v80h-80v240q0 33-23.5 56.5T720-120H240Z"/></svg>');

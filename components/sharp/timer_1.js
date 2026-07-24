@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-timer_1', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M480-200v-440H320v-120h280v560H480Z"/></svg>');

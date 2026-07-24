@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-post_add', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-520v-80h320v80H320Zm0 120v-80h320v80H320Zm0 120v-80h320v80H320Zm360-320v-80h-80v-80h80v-80h80v80h80v80h-80v80h-80ZM120-120v-720h440v80H200v560h560v-360h80v440H120Z"/></svg>');

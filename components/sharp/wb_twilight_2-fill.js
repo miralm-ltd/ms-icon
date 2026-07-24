@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-wb_twilight_2-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-80h800v80H80Zm120-160q0-117 81.5-198.5T480-600q117 0 198.5 81.5T760-320H200Z"/></svg>');

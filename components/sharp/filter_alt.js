@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-filter_alt', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M400-160v-280L118-800h724L560-440v280H400Zm80-308 198-252H282l198 252Zm0 0Z"/></svg>');

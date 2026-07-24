@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-speed_1_2', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-280v-320h-80v-80h160v400h-80Zm120 0v-80h80v80h-80Zm120 0v-240h160v-80H520v-80h240v240H600v80h160v80H520Z"/></svg>');

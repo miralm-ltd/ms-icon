@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-door_front-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120h720v-80h-80v-640H200v640h-80v80Zm411.5-331.5Q520-463 520-480t11.5-28.5Q543-520 560-520t28.5 11.5Q600-497 600-480t-11.5 28.5Q577-440 560-440t-28.5-11.5Z"/></svg>');

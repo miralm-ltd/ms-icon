@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-featured_video-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-400h360v-280H200v280ZM80-160v-640h800v640H80Z"/></svg>');

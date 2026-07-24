@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-view_comfy-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-520v-280h800v280H80Zm320 360v-280h480v280H400Zm-320 0v-280h240v280H80Z"/></svg>');

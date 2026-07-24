@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-rest_area-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-80v-80h-80v-80h240v80h-80v80h-80Zm240 0v-240H280v-80h400v80H520v240h-80Zm240 0v-80h-80v-80h240v80h-80v80h-80ZM80-320v-560h800v560H760v-80h40v-61L602-626 441-465 309-587 160-462v62h40v80H80Z"/></svg>');

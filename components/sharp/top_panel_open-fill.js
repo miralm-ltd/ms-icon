@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-top_panel_open-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m480-300 160-160H320l160 160ZM200-200h560v-360H200v360Zm-80 80v-720h720v720H120Z"/></svg>');

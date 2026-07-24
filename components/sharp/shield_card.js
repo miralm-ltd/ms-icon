@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-shield_card', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M440-80v-360h480v360H440Zm80-80h320v-80H520v80Zm0-160h320v-40H520v40Zm-40-195Zm0-365 320 120v240h-80v-185l-240-90-240 90v189q0 81 32.5 154.5T360-236v104q-90-60-145-163t-55-221v-244l320-120Z"/></svg>');

@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-pen_size_4', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-300q0-42 29-71l360-360q29-29 71-29t71 29q29 29 29 71t-29 71L371-229q-29 29-71 29t-71-29q-29-29-29-71Z"/></svg>');

@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-arrow_menu_open', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M360-120v-720h80v720h-80Zm160-160v-400l200 200-200 200Z"/></svg>');

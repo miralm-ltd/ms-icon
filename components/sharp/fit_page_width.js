@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-fit_page_width', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M360-360v-240L240-480l120 120Zm360-120L600-600v240l120-120ZM80-160v-640h800v640H80Zm720-560H160v480h640v-480Zm-640 0v480-480Z"/></svg>');

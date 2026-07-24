@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-table_view-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-80h280v-160H240v160Zm360 0h280v-160H600v160ZM80-240v-640h640v80H160v560H80Zm160-80h280v-160H240v160Zm360 0h280v-160H600v160ZM240-560h640v-160H240v160Z"/></svg>');

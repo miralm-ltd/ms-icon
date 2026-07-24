@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-mark_chat_read-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M694-160 553-302l56-56 85 85 170-170 56 57-226 226ZM80-80v-800h800v360H480v280H240L80-80Z"/></svg>');

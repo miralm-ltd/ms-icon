@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-format_image_break_left', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-80h720v80H120Zm0-160v-400h400v400H120Zm80-80h240v-240H200v240Zm-80-400v-80h720v80H120Zm200 280Z"/></svg>');

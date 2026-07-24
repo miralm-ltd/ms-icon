@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-open_jam-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-120v-80h280v-288l64 64 56-56-160-160-160 160 56 56 64-64v168H80v-520h800v520H600v120h120v80H240Z"/></svg>');

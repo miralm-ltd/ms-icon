@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-west', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M360-200 80-480l280-280 56 56-183 184h647v80H233l184 184-57 56Z"/></svg>');

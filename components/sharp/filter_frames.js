@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-filter_frames', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-80v-720h240l160-160 160 160h240v720H80Zm80-80h640v-560H160v560Zm80-80v-400h480v400H240Zm80-80h320v-240H320v240Zm160-120Z"/></svg>');

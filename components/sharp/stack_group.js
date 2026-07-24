@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-stack_group', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-80v-240H80v-560h560v240h240v560H320Zm80-80h400v-400H560v-240H160v400h240v240Zm80-320Z"/></svg>');

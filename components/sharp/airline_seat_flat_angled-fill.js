@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-airline_seat_flat_angled-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M850-273 361-451l96-263 489 178-96 263Zm-41 113L57-434l27-75 752 274-27 75ZM168-533q-35-35-35-85t35-85q35-35 85-35t85 35q35 35 35 85t-35 85q-35 35-85 35t-85-35Z"/></svg>');

@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-rounded-airline_seat_individual_suite-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-280q-33 0-56.5-23.5T40-360v-280q0-17 11.5-28.5T80-680q17 0 28.5 11.5T120-640v280h320v-240q0-33 23.5-56.5T520-680h240q66 0 113 47t47 113v160q0 33-23.5 56.5T840-280H120Zm245-155q35-35 35-85t-35-85q-35-35-85-35t-85 35q-35 35-35 85t35 85q35 35 85 35t85-35Z"/></svg>');

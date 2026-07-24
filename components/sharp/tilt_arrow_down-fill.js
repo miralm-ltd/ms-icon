@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-tilt_arrow_down-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-120v-720h640v720H160Zm280-353-64-63-56 56 160 160 160-160-56-57-64 64v-167h-80v167Z"/></svg>');

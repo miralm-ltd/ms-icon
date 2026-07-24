@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-drive_file_rename-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M449-280h271v-80H529l-80 80Zm-209 0h123l303-302-123-123-303 302v123Zm303-264-38-38 38-38 37 37-37 39ZM120-120v-720h720v720H120Z"/></svg>');

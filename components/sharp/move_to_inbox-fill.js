@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-move_to_inbox-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M480-400 320-560l56-58 64 64v-166h80v166l64-64 56 58-160 160ZM120-120v-720h720v720H120Zm429-222q31-22 43-58h168v-360H200v360h168q12 36 43 58t69 22q38 0 69-22Z"/></svg>');

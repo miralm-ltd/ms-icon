@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-book-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-80v-800h640v800H160Zm280-440 100-60 100 60v-280H440v280Z"/></svg>');

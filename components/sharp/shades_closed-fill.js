@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-shades_closed-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-80v-720H80v-80h800v80h-40v720h-85q-13-35-44-57.5T640-160q-41 0-71.5 22.5T525-80h-91q-12-35-43-57.5T320-160q-41 0-72 22.5T204-80h-84Zm400-720h-80v565h80v-565Z"/></svg>');

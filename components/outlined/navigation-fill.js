@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-navigation-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m200-120-40-40 320-720 320 720-40 40-280-120-280 120Z"/></svg>');

@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-radio', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-80v-614l556-226 26 66-330 134h548v640H80Zm80-80h640v-280H160v280Zm231-69q29-29 29-71t-29-71q-29-29-71-29t-71 29q-29 29-29 71t29 71q29 29 71 29t71-29ZM160-520h480v-80h80v80h80v-120H160v120Zm0 360v-280 280Z"/></svg>');

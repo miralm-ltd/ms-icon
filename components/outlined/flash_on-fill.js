@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-flash_on-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M400-80v-320H280v-480h400l-80 280h160L400-80Z"/></svg>');

@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-gif_box-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-720h720v720H120Zm320-240h60v-240h-60v240Zm-200 0h160v-120h-60v60h-40v-120h100v-60H240v240Zm320 0h60v-80h80v-60h-80v-40h120v-60H560v240Z"/></svg>');

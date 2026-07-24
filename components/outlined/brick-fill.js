@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-brick-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-480h120v-160h240v160h80v-160h240v160h120v480H80Z"/></svg>');

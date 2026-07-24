@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-line_start_diamond-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M360-200 80-480l280-280 240 240h280v80H600L360-200Z"/></svg>');

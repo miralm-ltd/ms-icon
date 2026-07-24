@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-format_image_back', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-80h720v80H120Zm0-160v-80h160v-80H120v-80h160v-80H120v-80h720v80H680v80h160v80H680v80h160v80H120Zm240-80h240v-80H360v80Zm0-160h240v-80H360v80ZM120-760v-80h720v80H120Zm360 320Zm0-80Z"/></svg>');

@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-fan_focus', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M480-80 340-220l56-56 44 43v-247h80v247l44-43 56 56L480-80ZM240-240 100-380l56-56 44 43v-247h80v247l44-43 56 56-140 140Zm480 0L580-380l56-56 44 43v-247h80v247l44-43 56 56-140 140ZM80-520v-320h800v320h-80v-240H160v240H80Z"/></svg>');

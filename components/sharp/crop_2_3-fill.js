@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-crop_2_3-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-80v-800h480v800H240Z"/></svg>');

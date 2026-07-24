@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-line_start_diamond', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m360-313 167-167-167-167-167 167 167 167Zm0 113L80-480l280-280 240 240h280v80H600L360-200Zm0-280Z"/></svg>');

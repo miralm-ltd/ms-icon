@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-mobile_3-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M360-160h240v-80H360v80ZM200-40v-880h560v204h40v192h-40v484H200Z"/></svg>');

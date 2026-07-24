@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-line_start_arrow-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M520-200 80-480l440-280v240h360v80H520v240Z"/></svg>');

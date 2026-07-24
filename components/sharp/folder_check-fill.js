@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-folder_check-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m434-297 226-227-56-56-170 170-85-85-57 57 142 141ZM80-160v-640h320l80 80h400v560H80Z"/></svg>');

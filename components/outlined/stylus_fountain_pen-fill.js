@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-stylus_fountain_pen-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M307-320h346l87-360-220-203v215q14 10 22 25t8 33q0 29-20.5 49.5T480-540q-29 0-49.5-20.5T410-610q0-18 8-33t22-25v-215L220-680l87 360ZM160-120l22-65q8-25 29-40t47-15h444q26 0 47 15t29 40l22 65H160Z"/></svg>');

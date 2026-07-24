@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-rectangle_add', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M440-320h80v-120h120v-80H520v-120h-80v120H320v80h120v120ZM80-160v-640h800v640H80Zm80-80h640v-480H160v480Zm0 0v-480 480Z"/></svg>');

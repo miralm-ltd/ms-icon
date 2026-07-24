@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-airline_seat_flat-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M360-400v-280h360q66 0 113 47t47 113v120H360ZM80-280v-80h800v80H80Zm35-155q-35-35-35-85t35-85q35-35 85-35t85 35q35 35 35 85t-35 85q-35 35-85 35t-85-35Z"/></svg>');

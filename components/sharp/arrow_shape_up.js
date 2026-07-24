@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-arrow_shape_up', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-120v-240H120l360-440 360 440H640v240H320Zm80-80h160v-240h111L480-674 289-440h111v240Zm80-240Z"/></svg>');

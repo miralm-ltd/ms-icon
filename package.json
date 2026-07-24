@@ -1,0 +1,49 @@
+{
+  "name": "material-symbols-icons",
+  "version": "0.0.1",
+  "main": "dist/main.js",
+  "type": "module",
+  "scripts": {
+    "update": "node ./dev/update.js",
+    "build": "node ./dev/build.js"
+  },
+  "keywords": [
+    "material",
+    "icons",
+    "symbols",
+    "material symbols",
+    "material symbols icons",
+    "svg",
+    "material symbols svg",
+    "material symbols icons svg"
+  ],
+  "author": "miralm",
+  "repository": "miralm-ltd/material-symbols-icons",
+  "license": "MIT",
+  "description": "Provide all SVGs and Web Components of Material Symbols Icons",
+  "exports": {
+    ".": {
+      "types": "./main.d.ts",
+      "default": "./main.js"
+    },
+    "./*.svg": "./icons/*.svg",
+    "./rounded/*": {
+      "types": "./components/component.d.ts",
+      "default": "./components/rounded/*.js"
+    },
+    "./sharp/*": {
+      "types": "./components/component.d.ts",
+      "default": "./components/sharp/*.js"
+    },
+    "./*": {
+      "types": "./components/component.d.ts",
+      "default": "./components/outlined/*.js"
+    }
+  },
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://ifdian.net/a/apprat"
+    }
+  ]
+}

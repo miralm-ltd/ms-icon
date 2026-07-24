@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-amp_stories-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-160v-640h400v640H280Zm-160-80v-480h80v480h-80Zm640 0v-480h80v480h-80Z"/></svg>');

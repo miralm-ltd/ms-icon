@@ -1,0 +1,2 @@
+import { define } from '../../element.js';
+define('ms-sharp-airplay-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m240-120 240-240 240 240H240ZM80-200v-640h800v640H760L480-480 200-200H80Z"/></svg>');
