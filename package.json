@@ -45,8 +45,5 @@
       "type": "individual",
       "url": "https://ifdian.net/a/apprat"
     }
-  ],
-  "dependencies": {
-    "material-symbols-icons": "^0.0.1"
-  }
+  ]
 }
