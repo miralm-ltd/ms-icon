@@ -1,29 +1,28 @@
 import { options } from './main.js'
 
 const supports = {
-  CSS: { CSSStyleSheet: false }
+  CSSStyleSheet: false
 }
 
 try {
   new CSSStyleSheet()
   if ('adoptedStyleSheets' in ShadowRoot.prototype && 'replaceSync' in CSSStyleSheet.prototype) {
-    supports.CSS.CSSStyleSheet = true
+    supports.CSSStyleSheet = true
   }
 } catch (error) { }
 
-const createStyleSheet = (css, shadowRoot) => {
-  if (supports.CSS.CSSStyleSheet && 'adoptedStyleSheets' in ShadowRoot.prototype) {
-    const sheet = new CSSStyleSheet()
-    sheet.replaceSync(css)
-    shadowRoot.adoptedStyleSheets = [sheet]
-    return
-  }
-  const el = document.createElement('style')
-  el.textContent = css
-  shadowRoot.appendChild(el)
-}
 
 const css = `:host{width:24px;display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;aspect-ratio:1;-webkit-aspect-ratio:1;color:inherit}svg{width:100%;height:100%;fill:currentColor}`
+
+let styleOrSheet
+
+if (supports.CSSStyleSheet) {
+  styleOrSheet = new CSSStyleSheet()
+  styleOrSheet.replaceSync(css)
+} else {
+  styleOrSheet = document.createElement('style')
+  styleOrSheet.textContent = css
+}
 
 export const define = (name, svg) => {
   class Icon extends HTMLElement {
@@ -31,7 +30,7 @@ export const define = (name, svg) => {
       super()
       const shadowRoot = this.attachShadow({ mode: 'open' })
       shadowRoot.innerHTML = svg
-      createStyleSheet(css, shadowRoot)
+      supports.CSSStyleSheet ? shadowRoot.adoptedStyleSheets = [styleOrSheet] : shadowRoot.appendChild(styleOrSheet.cloneNode(true))
     }
     connectedCallback() {
       for (const key in options.attributes) {

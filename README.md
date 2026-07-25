@@ -1,17 +1,17 @@
-# Material Symbols Icons
+# MS(Material Symbols) Icon
 
 This is the SVG icon library of Google Material Symbols Icons.  
 If you need to look up all icon names, please refer to [https://fonts.google.com/icons](https://fonts.google.com/icons). Note that this repository only supports Material Symbols icons.
 
 ```shell
-npm install material-symbols-icons
+npm install ms-icon
 ```
 
 ## Use
 
 ```js
-import 'material-symbols-icons/home'
-import 'material-symbols-icons/home-fill'
+import 'ms-icon/home'
+import 'ms-icon/home-fill'
 
 function App() {
   return (
@@ -25,11 +25,11 @@ Different styles
 
 ```js
 //Rounded
-import 'material-symbols-icons/rounded/home'
-import 'material-symbols-icons/rounded/home-fill'
+import 'ms-icon/rounded/home'
+import 'ms-icon/rounded/home-fill'
 //Sharp
-import 'material-symbols-icons/sharp/home'
-import 'material-symbols-icons/sharp/home-fill'
+import 'ms-icon/sharp/home'
+import 'ms-icon/sharp/home-fill'
 
 function App() {
   return (
@@ -48,14 +48,14 @@ function App() {
 Your bundler needs to support this.
 
 ```js
-import MenuIcon from 'material-symbols-icons/outlined/home.svg'
-import MenuFillIcon from 'material-symbols-icons/outlined/home-fill.svg'
+import MenuIcon from 'ms-icon/outlined/home.svg'
+import MenuFillIcon from 'ms-icon/outlined/home-fill.svg'
 //Rounded
-import MenuRoundedIcon from 'material-symbols-icons/rounded/home.svg'
-import MenuFillRoundedIcon from 'material-symbols-icons/rounded/home-fill.svg'
+import MenuRoundedIcon from 'ms-icon/rounded/home.svg'
+import MenuFillRoundedIcon from 'ms-icon/rounded/home-fill.svg'
 //Sharp
-import MenuSharpIcon from 'material-symbols-icons/sharp/home.svg'
-import MenuFillSharpIcon from 'material-symbols-icons/sharp/home-fill.svg'
+import MenuSharpIcon from 'ms-icon/sharp/home.svg'
+import MenuFillSharpIcon from 'ms-icon/sharp/home-fill.svg'
 
 console.log(typeof MenuIcon) //string
 ```
@@ -63,8 +63,8 @@ console.log(typeof MenuIcon) //string
 ## Component Mount Configuration
 
 ```js
-import 'material-symbols-icons/home'
-import { options } from 'material-symbols-icons'
+import 'ms-icon/home'
+import { options } from 'ms-icon'
 
 options.attributes = {
   class: 'icon',

@@ -1,6 +1,6 @@
 {
-  "name": "material-symbols-icons",
-  "version": "0.0.2",
+  "name": "ms-icon",
+  "version": "0.0.1",
   "main": "dist/main.js",
   "type": "module",
   "scripts": {
@@ -18,7 +18,7 @@
     "material symbols icons svg"
   ],
   "author": "miralm",
-  "repository": "miralm-ltd/material-symbols-icons",
+  "repository": "miralm-ltd/ms-icon",
   "license": "MIT",
   "description": "Provide all SVGs and Web Components of Material Symbols Icons",
   "exports": {
