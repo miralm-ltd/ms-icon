@@ -20,7 +20,7 @@
   "author": "miralm",
   "repository": "miralm-ltd/ms-icon",
   "license": "MIT",
-  "description": "Provide all SVGs and Web Components of Material Symbols Icons",
+  "description": "Provide all SVGs and Web Components of Material Symbols",
   "exports": {
     ".": {
       "types": "./main.d.ts",
