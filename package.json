@@ -1,7 +1,7 @@
 {
   "name": "ms-icon",
   "version": "0.0.1",
-  "main": "dist/main.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
     "update": "node ./dev/update.js",
