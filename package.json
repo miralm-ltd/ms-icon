@@ -20,13 +20,14 @@
   "author": "miralm",
   "repository": "miralm-ltd/ms-icon",
   "license": "MIT",
-  "description": "Provide all SVGs and Web Components of Material Symbols",
+  "description": "This library provides Google Material Symbols icons as components, SVGs, and icon fonts.",
   "exports": {
     ".": {
       "types": "./main.d.ts",
       "default": "./main.js"
     },
     "./*.svg": "./icons/*.svg",
+    "./*.woff2": "./fonts/*.woff2",
     "./rounded/*": {
       "types": "./components/component.d.ts",
       "default": "./components/rounded/*.js"
