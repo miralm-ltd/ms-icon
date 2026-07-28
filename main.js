@@ -35,7 +35,7 @@ class Icon extends HTMLElement {
       if (!this.hasAttribute(key)) this.setAttribute(key, options.attributes[key])
     }
   }
-  attributeChangedCallback(_, _, value) {
+  attributeChangedCallback(_, _1, value) {
     const svg = this.shadowRoot.lastChild
     if (svg && svg.tagName === 'SVG') svg.remove()
     this.shadowRoot.innerHTML += `<svg viewBox="0 -960 960 960"><path d="${options.icons[value]}"/></svg>`
