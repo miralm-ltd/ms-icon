@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-event_list', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M560-120v-320h320v320H560Zm80-80h160v-160H640v160ZM80-240v-80h360v80H80Zm480-280v-320h320v320H560Zm80-80h160v-160H640v160ZM80-640v-80h360v80H80Zm640 360Zm0-400Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/event_list']='M560-120v-320h320v320H560Zm80-80h160v-160H640v160ZM80-240v-80h360v80H80Zm480-280v-320h320v320H560Zm80-80h160v-160H640v160ZM80-640v-80h360v80H80Zm640 360Zm0-400Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-cancel_presentation-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m376-320 104-104 104 104 56-56-104-104 104-104-56-56-104 104-104-104-56 56 104 104-104 104 56 56ZM80-160v-640h800v640H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/cancel_presentation-fill']='m376-320 104-104 104 104 56-56-104-104 104-104-56-56-104 104-104-104-56 56 104 104-104 104 56 56ZM80-160v-640h800v640H80Z'

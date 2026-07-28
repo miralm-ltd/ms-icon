@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-chess_rook-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-80v-200q81-65 122-141t58-139H240v-320h200v120h80v-120h200v320H619q17 63 58 139t123 141v200H160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/chess_rook-fill']='M160-80v-200q81-65 122-141t58-139H240v-320h200v120h80v-120h200v320H619q17 63 58 139t123 141v200H160Z'

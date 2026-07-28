@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-looks_one-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M480-280h80v-400H400v80h80v320Zm360 160H120v-720h720v720Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/looks_one-fill']='M480-280h80v-400H400v80h80v320Zm360 160H120v-720h720v720Z'

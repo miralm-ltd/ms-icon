@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-border_color', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80 0v-160h800V0H80Zm160-320h56l312-311-29-29-28-28-311 312v56Zm-80 80v-170l505-504 168 171-503 503H160Zm560-504-56-56 56 56ZM608-631l-29-29-28-28 57 57Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/border_color']='M80 0v-160h800V0H80Zm160-320h56l312-311-29-29-28-28-311 312v56Zm-80 80v-170l505-504 168 171-503 503H160Zm560-504-56-56 56 56ZM608-631l-29-29-28-28 57 57Z'

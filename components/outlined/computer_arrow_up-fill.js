@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-computer_arrow_up-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M40-120v-80h880v80H40Zm120-120q-33 0-56.5-23.5T80-320v-440q0-33 23.5-56.5T160-840h640q33 0 56.5 23.5T880-760v440q0 33-23.5 56.5T800-240H160Zm280-140h80v-167l64 63 56-56-160-160-160 160 56 57 64-64v167Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['computer_arrow_up-fill']='M40-120v-80h880v80H40Zm120-120q-33 0-56.5-23.5T80-320v-440q0-33 23.5-56.5T160-840h640q33 0 56.5 23.5T880-760v440q0 33-23.5 56.5T800-240H160Zm280-140h80v-167l64 63 56-56-160-160-160 160 56 57 64-64v167Z'

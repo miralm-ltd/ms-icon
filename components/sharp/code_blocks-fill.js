@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-code_blocks-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m384-336 56-57-87-87 87-87-56-57-144 144 144 144Zm192 0 144-144-144-144-56 57 87 87-87 87 56 57ZM120-120v-720h720v720H120Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/code_blocks-fill']='m384-336 56-57-87-87 87-87-56-57-144 144 144 144Zm192 0 144-144-144-144-56 57 87 87-87 87 56 57ZM120-120v-720h720v720H120Z'

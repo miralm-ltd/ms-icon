@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-language_spanish', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M520-280v-120h80v40h120v-80H520v-240h280v120h-80v-40H600v80h200v240H520ZM160-680h280v80H240v80h160v80H240v80h200v80H160v-400Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/language_spanish']='M520-280v-120h80v40h120v-80H520v-240h280v120h-80v-40H600v80h200v240H520ZM160-680h280v80H240v80h160v80H240v80h200v80H160v-400Z'

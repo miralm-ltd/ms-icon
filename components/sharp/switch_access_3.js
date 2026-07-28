@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-switch_access_3', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M400-80v-160h80v80h320v-640H480v80h-80v-160h480v205h40v190h-40v405H400Zm273-400ZM80-200v-160h160v160H80Zm320-120-56-56 63-64H80v-80h327l-63-64 56-56 160 160-160 160ZM80-600v-160h160v160H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/switch_access_3']='M400-80v-160h80v80h320v-640H480v80h-80v-160h480v205h40v190h-40v405H400Zm273-400ZM80-200v-160h160v160H80Zm320-120-56-56 63-64H80v-80h327l-63-64 56-56 160 160-160 160ZM80-600v-160h160v160H80Z'

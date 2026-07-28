@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-resume', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-240v-480h80v480h-80Zm160 0 400-240-400-240v480Zm80-141v-198l165 99-165 99Zm0-99Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/resume']='M240-240v-480h80v480h-80Zm160 0 400-240-400-240v480Zm80-141v-198l165 99-165 99Zm0-99Z'

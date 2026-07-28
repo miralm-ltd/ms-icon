@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-hangout_video-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-320h320v-128l160 128v-320L560-512v-128H240v320ZM80-160v-640h800v640H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/hangout_video-fill']='M240-320h320v-128l160 128v-320L560-512v-128H240v320ZM80-160v-640h800v640H80Z'

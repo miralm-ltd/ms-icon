@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-airline_seat_individual_suite-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M40-280v-400h80v320h320v-320h480v400H40Zm325-155q35-35 35-85t-35-85q-35-35-85-35t-85 35q-35 35-35 85t35 85q35 35 85 35t85-35Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/airline_seat_individual_suite-fill']='M40-280v-400h80v320h320v-320h480v400H40Zm325-155q35-35 35-85t-35-85q-35-35-85-35t-85 35q-35 35-35 85t35 85q35 35 85 35t85-35Z'

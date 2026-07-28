@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-arrow_shape_up_stack-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M360-160v-120H160l320-360 320 360H600v120H360ZM160-480l320-360 320 360H693L480-720 267-480H160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['arrow_shape_up_stack-fill']='M360-160v-120H160l320-360 320 360H600v120H360ZM160-480l320-360 320 360H693L480-720 267-480H160Z'

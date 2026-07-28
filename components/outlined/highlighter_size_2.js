@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-highlighter_size_2', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m282-198-84-84q-12-12-12-28.5t12-28.5l423-423q12-12 28.5-12t28.5 12l84 85q11 11 11 28t-11 28L339-198q-12 12-28.5 12T282-198Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['highlighter_size_2']='m282-198-84-84q-12-12-12-28.5t12-28.5l423-423q12-12 28.5-12t28.5 12l84 85q11 11 11 28t-11 28L339-198q-12 12-28.5 12T282-198Z'

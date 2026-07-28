@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-earbud_left', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-80v-400H120v-320h440v80H200v160h120v400h80v-400h160v80h-80v400H240Zm320-320v-480h40q100 0 170 70t70 170q0 100-70 170t-170 70h-40Zm80-85q54-14 87-57t33-98q0-55-33-98t-87-57v310ZM360-640Zm280 0Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/earbud_left']='M240-80v-400H120v-320h440v80H200v160h120v400h80v-400h160v80h-80v400H240Zm320-320v-480h40q100 0 170 70t70 170q0 100-70 170t-170 70h-40Zm80-85q54-14 87-57t33-98q0-55-33-98t-87-57v310ZM360-640Zm280 0Z'

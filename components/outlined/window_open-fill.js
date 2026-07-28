@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-window_open-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-120v-720h640v720H160Zm120-400h160v-40h80v40h160v-200H280v200Zm-40 320h480v-560H240v560Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['window_open-fill']='M160-120v-720h640v720H160Zm120-400h160v-40h80v40h160v-200H280v200Zm-40 320h480v-560H240v560Z'

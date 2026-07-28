@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-mobile_charge-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-40q-33 0-56.5-23.5T200-120v-720q0-33 23.5-56.5T280-920h400q33 0 56.5 23.5T760-840v124q18 7 29 22t11 34v80q0 19-11 34t-29 22v404q0 33-23.5 56.5T680-40H280Zm180-240 120-240h-80v-160L380-440h80v160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['mobile_charge-fill']='M280-40q-33 0-56.5-23.5T200-120v-720q0-33 23.5-56.5T280-920h400q33 0 56.5 23.5T760-840v124q18 7 29 22t11 34v80q0 19-11 34t-29 22v404q0 33-23.5 56.5T680-40H280Zm180-240 120-240h-80v-160L380-440h80v160Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-pinboard-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m260-80-40-40v-160H80v-80l60-106v-94H80v-80h360v80h-60v94l60 106v80H300v160l-40 40Zm220-80v-80h320v-480H80v-80h800v640H480Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/pinboard-fill']='m260-80-40-40v-160H80v-80l60-106v-94H80v-80h360v80h-60v94l60 106v80H300v160l-40 40Zm220-80v-80h320v-480H80v-80h800v640H480Z'

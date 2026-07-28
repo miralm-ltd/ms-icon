@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-language_us_dvorak', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-360h130v-240H240v240Zm-80 80v-400h210q33 0 56.5 23.5T450-600v240q0 33-23.5 56.5T370-280H160Zm465 0L490-680h80l95 278 95-278h80L705-280h-80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['language_us_dvorak']='M240-360h130v-240H240v240Zm-80 80v-400h210q33 0 56.5 23.5T450-600v240q0 33-23.5 56.5T370-280H160Zm465 0L490-680h80l95 278 95-278h80L705-280h-80Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-grid_layout_side-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M840-120v-720 720Zm-640 0h320v-720H200q-33 0-56.5 23.5T120-760v560q0 33 23.5 56.5T200-120Zm640-80v-560q0-33-23.5-56.5T760-840H600v720h160q33 0 56.5-23.5T840-200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['grid_layout_side-fill']='M840-120v-720 720Zm-640 0h320v-720H200q-33 0-56.5 23.5T120-760v560q0 33 23.5 56.5T200-120Zm640-80v-560q0-33-23.5-56.5T760-840H600v720h160q33 0 56.5-23.5T840-200Z'

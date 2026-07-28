@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-near_me-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M516-120 402-402 120-516v-56l720-268-268 720h-56Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/near_me-fill']='M516-120 402-402 120-516v-56l720-268-268 720h-56Z'

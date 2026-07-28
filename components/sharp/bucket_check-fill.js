@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-bucket_check-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m200-120-80-560h120v-160h480v160h120l-80 560H200Zm238-160 198-198-57-56-141 141-57-57-57 57 114 113ZM320-680h320v-80H320v80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/bucket_check-fill']='m200-120-80-560h120v-160h480v160h120l-80 560H200Zm238-160 198-198-57-56-141 141-57-57-57 57 114 113ZM320-680h320v-80H320v80Z'

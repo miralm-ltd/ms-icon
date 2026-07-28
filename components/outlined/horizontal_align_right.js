@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-horizontal_align_right', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M760-160v-640h80v640h-80ZM480-280l-56-56 104-104H120v-80h408L424-624l56-56 200 200-200 200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['horizontal_align_right']='M760-160v-640h80v640h-80ZM480-280l-56-56 104-104H120v-80h408L424-624l56-56 200 200-200 200Z'

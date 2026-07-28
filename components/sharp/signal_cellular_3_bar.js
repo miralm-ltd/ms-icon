@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-signal_cellular_3_bar', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m80-80 800-800v800H80Zm520-80h200v-526L600-486v326Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/signal_cellular_3_bar']='m80-80 800-800v800H80Zm520-80h200v-526L600-486v326Z'

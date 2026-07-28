@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-hide_image-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M840-234 234-840h526q33 0 56.5 23.5T840-760v526ZM792-56l-64-64H200q-33 0-56.5-23.5T120-200v-528l-64-64 56-56 736 736-56 56ZM240-280h327l-84-84-33 44-90-120-120 160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['hide_image-fill']='M840-234 234-840h526q33 0 56.5 23.5T840-760v526ZM792-56l-64-64H200q-33 0-56.5-23.5T120-200v-528l-64-64 56-56 736 736-56 56ZM240-280h327l-84-84-33 44-90-120-120 160Z'

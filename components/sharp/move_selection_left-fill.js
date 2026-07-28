@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-move_selection_left-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-240v-480h480v480H80Zm560-400v-80h80v80h-80Zm0 400v-80h80v80h-80Zm160-400v-80h80v80h-80Zm0 200v-80h80v80h-80Zm0 200v-80h80v80h-80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/move_selection_left-fill']='M80-240v-480h480v480H80Zm560-400v-80h80v80h-80Zm0 400v-80h80v80h-80Zm160-400v-80h80v80h-80Zm0 200v-80h80v80h-80Zm0 200v-80h80v80h-80Z'

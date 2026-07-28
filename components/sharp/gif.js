@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-gif', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M460-360v-240h60v240h-60Zm-260 0v-240h200v60H260v120h80v-60h60v120H200Zm380 0v-240h180v60H640v40h80v60h-80v80h-60Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/gif']='M460-360v-240h60v240h-60Zm-260 0v-240h200v60H260v120h80v-60h60v120H200Zm380 0v-240h180v60H640v40h80v60h-80v80h-60Z'

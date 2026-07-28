@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-unfold_less', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m356-160-56-56 180-180 180 180-56 56-124-124-124 124Zm124-404L300-744l56-56 124 124 124-124 56 56-180 180Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['unfold_less']='m356-160-56-56 180-180 180 180-56 56-124-124-124 124Zm124-404L300-744l56-56 124 124 124-124 56 56-180 180Z'

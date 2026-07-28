@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-vertical_shades-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-120v-80h80v-640h640v640h80v80H80Zm320-80h160v-560H400v560Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['vertical_shades-fill']='M80-120v-80h80v-640h640v640h80v80H80Zm320-80h160v-560H400v560Z'

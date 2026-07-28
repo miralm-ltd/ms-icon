@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-calendar_today-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-80v-720h120v-80h80v80h320v-80h80v80h120v720H120Zm80-80h560v-400H200v400Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/calendar_today-fill']='M120-80v-720h120v-80h80v80h320v-80h80v80h120v720H120Zm80-80h560v-400H200v400Z'

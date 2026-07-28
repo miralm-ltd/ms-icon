@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-stylus_highlighter-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-320v-440q0-33 23.5-56.5T360-840q9 0 18 2t17 6l240 119q20 10 32.5 29.5T680-641v321H280ZM160-120l22-65q8-25 29-40t47-15h444q26 0 47 15t29 40l22 65H160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['stylus_highlighter-fill']='M280-320v-440q0-33 23.5-56.5T360-840q9 0 18 2t17 6l240 119q20 10 32.5 29.5T680-641v321H280ZM160-120l22-65q8-25 29-40t47-15h444q26 0 47 15t29 40l22 65H160Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-grid_layout_side', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-720h720v720H120Zm80-80h320v-560H200v560Zm560 0v-560H600v560h160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/grid_layout_side']='M120-120v-720h720v720H120Zm80-80h320v-560H200v560Zm560 0v-560H600v560h160Z'

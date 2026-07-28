@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-general_device-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-240v-600h320v600H320Zm0 120v-80h320v80H320Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/general_device-fill']='M320-240v-600h320v600H320Zm0 120v-80h320v80H320Z'

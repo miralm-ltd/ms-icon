@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-transition_slide-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M40-160v-640h240v640H40Zm320 0v-640h560v640H360Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/transition_slide-fill']='M40-160v-640h240v640H40Zm320 0v-640h560v640H360Z'

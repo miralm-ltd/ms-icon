@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-image_inset', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-320h480v-320H240v320Zm80-80 85-113 55 73 75-100 105 140H320ZM80-160v-640h800v640H80Zm80-80h640v-480H160v480Zm0 0v-480 480Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/image_inset']='M240-320h480v-320H240v320Zm80-80 85-113 55 73 75-100 105 140H320ZM80-160v-640h800v640H80Zm80-80h640v-480H160v480Zm0 0v-480 480Z'

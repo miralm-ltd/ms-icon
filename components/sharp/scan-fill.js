@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-scan-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M520-600h200L520-800v200ZM160-80v-200h640v200H160ZM40-360v-80h880v80H40Zm120-160v-360h400l240 240v120H160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/scan-fill']='M520-600h200L520-800v200ZM160-80v-200h640v200H160ZM40-360v-80h880v80H40Zm120-160v-360h400l240 240v120H160Z'

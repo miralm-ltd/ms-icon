@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-view_column-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-200v-560h213v560H120Zm253 0v-560h213v560H373Zm253 0v-560h213v560H626Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/view_column-fill']='M120-200v-560h213v560H120Zm253 0v-560h213v560H373Zm253 0v-560h213v560H626Z'

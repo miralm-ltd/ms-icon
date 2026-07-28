@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-mobile_info', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M440-300h80v-220h-80v220Zm68.5-311.5Q520-623 520-640t-11.5-28.5Q497-680 480-680t-28.5 11.5Q440-657 440-640t11.5 28.5Q463-600 480-600t28.5-11.5ZM200-40v-880h560v204h40v192h-40v484H200Zm80-80h400v-720H280v720Zm0 0v-720 720Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/mobile_info']='M440-300h80v-220h-80v220Zm68.5-311.5Q520-623 520-640t-11.5-28.5Q497-680 480-680t-28.5 11.5Q440-657 440-640t11.5 28.5Q463-600 480-600t28.5-11.5ZM200-40v-880h560v204h40v192h-40v484H200Zm80-80h400v-720H280v720Zm0 0v-720 720Z'

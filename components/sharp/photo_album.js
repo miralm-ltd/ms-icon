@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-photo_album', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-80v-800h640v800H160Zm80-80h480v-640h-80v280l-100-60-100 60v-280H240v640Zm40-80h400L545-420 440-280l-65-87-95 127Zm-40 80v-640 640Zm200-360 100-60 100 60-100-60-100 60Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/photo_album']='M160-80v-800h640v800H160Zm80-80h480v-640h-80v280l-100-60-100 60v-280H240v640Zm40-80h400L545-420 440-280l-65-87-95 127Zm-40 80v-640 640Zm200-360 100-60 100 60-100-60-100 60Z'

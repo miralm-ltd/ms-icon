@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-curtains_closed-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-120v-80h80v-640h640v640h80v80H80Zm360-80h80v-560h-80v560Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['curtains_closed-fill']='M80-120v-80h80v-640h640v640h80v80H80Zm360-80h80v-560h-80v560Z'

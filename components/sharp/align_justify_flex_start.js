@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-align_justify_flex_start', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-80v-800h80v800H80Zm440-200v-400h120v400H520Zm-240 0v-400h120v400H280Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/align_justify_flex_start']='M80-80v-800h80v800H80Zm440-200v-400h120v400H520Zm-240 0v-400h120v400H280Z'

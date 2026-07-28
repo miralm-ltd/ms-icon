@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-chrome_reader_mode', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-640h800v640H80Zm80-80h280v-480H160v480Zm360 0h280v-480H520v480Zm40-320h200v-60H560v60Zm0 100h200v-60H560v60Zm0 100h200v-60H560v60ZM160-720v480-480Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/chrome_reader_mode']='M80-160v-640h800v640H80Zm80-80h280v-480H160v480Zm360 0h280v-480H520v480Zm40-320h200v-60H560v60Zm0 100h200v-60H560v60Zm0 100h200v-60H560v60ZM160-720v480-480Z'

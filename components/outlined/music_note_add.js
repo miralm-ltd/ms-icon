@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-music_note_add', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M367-167q-47-47-47-113t47-113q47-47 113-47 23 0 42.5 5.5T560-418v-422h240v160H640v400q0 66-47 113t-113 47q-66 0-113-47Zm-87-353v-120H160v-80h120v-120h80v120h120v80H360v120h-80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['music_note_add']='M367-167q-47-47-47-113t47-113q47-47 113-47 23 0 42.5 5.5T560-418v-422h240v160H640v400q0 66-47 113t-113 47q-66 0-113-47Zm-87-353v-120H160v-80h120v-120h80v120h120v80H360v120h-80Z'

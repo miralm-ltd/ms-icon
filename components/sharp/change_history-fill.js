@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-change_history-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m80-160 400-640 400 640H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/change_history-fill']='m80-160 400-640 400 640H80Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-tornado', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M40-840h880L480-80 40-840Zm139 80 69 120h464l69-120H179Zm116 200 69 120h232l69-120H295Zm116 200 69 120 69-120H411Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['tornado']='M40-840h880L480-80 40-840Zm139 80 69 120h464l69-120H179Zm116 200 69 120h232l69-120H295Zm116 200 69 120 69-120H411Z'

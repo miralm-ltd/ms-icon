@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-expansion_panels', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m480-240 160-160-57-57-103 103-103-103-57 57 160 160ZM377-503l103-103 103 103 57-57-160-160-160 160 57 57ZM120-120v-720h720v720H120Zm80-80h560v-560H200v560Zm0 0v-560 560Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/expansion_panels']='m480-240 160-160-57-57-103 103-103-103-57 57 160 160ZM377-503l103-103 103 103 57-57-160-160-160 160 57 57ZM120-120v-720h720v720H120Zm80-80h560v-560H200v560Zm0 0v-560 560Z'

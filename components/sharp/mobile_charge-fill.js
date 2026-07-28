@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-mobile_charge-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m460-280 120-240h-80v-160L380-440h80v160ZM200-40v-880h560v204h40v192h-40v484H200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/mobile_charge-fill']='m460-280 120-240h-80v-160L380-440h80v160ZM200-40v-880h560v204h40v192h-40v484H200Z'

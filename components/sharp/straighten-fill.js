@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-straighten-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-240v-480h200v240h80v-240h80v240h80v-240h80v240h80v-240h200v480H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/straighten-fill']='M80-240v-480h200v240h80v-240h80v240h80v-240h80v240h80v-240h200v480H80Z'

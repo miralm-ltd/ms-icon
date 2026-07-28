@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-desk', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-240v-480h800v480h-80v-80H640v80h-80v-400H160v400H80Zm560-320h160v-80H640v80Zm0 160h160v-80H640v80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/desk']='M80-240v-480h800v480h-80v-80H640v80h-80v-400H160v400H80Zm560-320h160v-80H640v80Zm0 160h160v-80H640v80Z'

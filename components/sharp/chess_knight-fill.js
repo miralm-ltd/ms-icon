@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-chess_knight-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-80v-209l240-121v-70l-139 69q-12 6-25 9t-26 3q-31 0-58.5-16T149-461q-14-27-12-57.5t19-56.5l124-185-80-120h240q133 0 226.5 93T760-560v480H200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/chess_knight-fill']='M200-80v-209l240-121v-70l-139 69q-12 6-25 9t-26 3q-31 0-58.5-16T149-461q-14-27-12-57.5t19-56.5l124-185-80-120h240q133 0 226.5 93T760-560v480H200Z'

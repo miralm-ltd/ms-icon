@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-remember_me-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-40v-880h560v880H200Zm280-360q54 0 104.5 12.5T680-352v-368H280v368q45-23 95.5-35.5T480-400Zm-85-75q-35-35-35-85t35-85q35-35 85-35t85 35q35 35 35 85t-35 85q-35 35-85 35t-85-35Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/remember_me-fill']='M200-40v-880h560v880H200Zm280-360q54 0 104.5 12.5T680-352v-368H280v368q45-23 95.5-35.5T480-400Zm-85-75q-35-35-35-85t35-85q35-35 85-35t85 35q35 35 35 85t-35 85q-35 35-85 35t-85-35Z'

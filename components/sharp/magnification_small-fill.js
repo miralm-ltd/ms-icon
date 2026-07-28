@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-magnification_small-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-520h160v-160H200v160ZM80-160v-640h800v640H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/magnification_small-fill']='M200-520h160v-160H200v160ZM80-160v-640h800v640H80Z'

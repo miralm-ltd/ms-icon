@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-calendar_view_month', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-520h160v-200H160v200Zm240 0h160v-200H400v200Zm240 0h160v-200H640v200ZM160-240h160v-200H160v200Zm240 0h160v-200H400v200Zm240 0h160v-200H640v200ZM80-160v-640h800v640H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/calendar_view_month']='M160-520h160v-200H160v200Zm240 0h160v-200H400v200Zm240 0h160v-200H640v200ZM160-240h160v-200H160v200Zm240 0h160v-200H400v200Zm240 0h160v-200H640v200ZM80-160v-640h800v640H80Z'

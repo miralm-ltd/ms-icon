@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-space_bar', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-360v-240h80v160h480v-160h80v240H160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/space_bar']='M160-360v-240h80v160h480v-160h80v240H160Z'

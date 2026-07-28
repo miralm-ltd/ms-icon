@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-emergency_home-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M440-440h80v-240h-80v240Zm68.5 108.5Q520-343 520-360t-11.5-28.5Q497-400 480-400t-28.5 11.5Q440-377 440-360t11.5 28.5Q463-320 480-320t28.5-11.5ZM480-48 48-480l432-432 432 432L480-48Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/emergency_home-fill']='M440-440h80v-240h-80v240Zm68.5 108.5Q520-343 520-360t-11.5-28.5Q497-400 480-400t-28.5 11.5Q440-377 440-360t11.5 28.5Q463-320 480-320t28.5-11.5ZM480-48 48-480l432-432 432 432L480-48Z'

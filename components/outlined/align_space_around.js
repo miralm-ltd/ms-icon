@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-align_space_around', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-800v-80h800v80H80Zm0 720v-80h800v80H80Zm200-520v-120h400v120H280Zm0 360v-120h400v120H280Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['align_space_around']='M80-800v-80h800v80H80Zm0 720v-80h800v80H80Zm200-520v-120h400v120H280Zm0 360v-120h400v120H280Z'

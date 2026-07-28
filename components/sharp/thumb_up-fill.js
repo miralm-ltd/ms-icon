@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-thumb_up-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-120v-520l280-280 74 74-52 206h298v176L774-120H320Zm-240 0v-520h160v520H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/thumb_up-fill']='M320-120v-520l280-280 74 74-52 206h298v176L774-120H320Zm-240 0v-520h160v520H80Z'

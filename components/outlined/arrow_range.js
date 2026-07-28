@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-arrow_range', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-280 80-480l200-200 56 56-103 104h494L624-624l56-56 200 200-200 200-56-56 103-104H233l103 104-56 56Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['arrow_range']='M280-280 80-480l200-200 56 56-103 104h494L624-624l56-56 200 200-200 200-56-56 103-104H233l103 104-56 56Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-reset_tv', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-120v-80H80v-640h800v200h-80v-120H160v480h640v-200H512l74 74-56 56-170-170 170-170 56 56-74 74h368v360H640v80H320Zm200-400Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/reset_tv']='M320-120v-80H80v-640h800v200h-80v-120H160v480h640v-200H512l74 74-56 56-170-170 170-170 56 56-74 74h368v360H640v80H320Zm200-400Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-rounded-dropdown_menu-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m608-408 78-78q10-10 5-22t-19-12H488q-14 0-19 12t5 22l78 78q12 12 28 12t28-12ZM320-200q-117 0-198.5-81.5T40-480q0-117 81.5-198.5T320-760h320q117 0 198.5 81.5T920-480q0 117-81.5 198.5T640-200H320Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['rounded/dropdown_menu-fill']='m608-408 78-78q10-10 5-22t-19-12H488q-14 0-19 12t5 22l78 78q12 12 28 12t28-12ZM320-200q-117 0-198.5-81.5T40-480q0-117 81.5-198.5T320-760h320q117 0 198.5 81.5T920-480q0 117-81.5 198.5T640-200H320Z'

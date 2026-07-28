@@ -1,1 +1,0 @@
-export declare const define: (name: string, svg: string) => void;

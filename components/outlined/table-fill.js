@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-table-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M440-320H120v120q0 33 23.5 56.5T200-120h240v-200Zm80 0v200h240q33 0 56.5-23.5T840-200v-120H520Zm-80-80v-200H120v200h320Zm80 0h320v-200H520v200ZM120-680h720v-80q0-33-23.5-56.5T760-840H200q-33 0-56.5 23.5T120-760v80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['table-fill']='M440-320H120v120q0 33 23.5 56.5T200-120h240v-200Zm80 0v200h240q33 0 56.5-23.5T840-200v-120H520Zm-80-80v-200H120v200h320Zm80 0h320v-200H520v200ZM120-680h720v-80q0-33-23.5-56.5T760-840H200q-33 0-56.5 23.5T120-760v80Z'

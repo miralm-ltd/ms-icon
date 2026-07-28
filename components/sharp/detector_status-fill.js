@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-detector_status-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M438-120 296-262l57-56 85 85 169-170 57 57-226 226ZM324-640l12 40h288l12-40H324Zm-46 120-38-120H120v-200h720v200H720l-46 120H278Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/detector_status-fill']='M438-120 296-262l57-56 85 85 169-170 57 57-226 226ZM324-640l12 40h288l12-40H324Zm-46 120-38-120H120v-200h720v200H720l-46 120H278Z'

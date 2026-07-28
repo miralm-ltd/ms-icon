@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-nightlife', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-160v-80h80v-160L40-760h560L360-400v160h80v80H200Zm36-440h168l56-80H180l56 80Zm319 405q-35-35-35-85t35-85q35-35 85-35 11 0 21 1.5t19 6.5v-368h200v120H760v360q0 50-35 85t-85 35q-50 0-85-35Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/nightlife']='M200-160v-80h80v-160L40-760h560L360-400v160h80v80H200Zm36-440h168l56-80H180l56 80Zm319 405q-35-35-35-85t35-85q35-35 85-35 11 0 21 1.5t19 6.5v-368h200v120H760v360q0 50-35 85t-85 35q-50 0-85-35Z'

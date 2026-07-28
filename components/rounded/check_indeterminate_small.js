@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-rounded-check_indeterminate_small', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-440q-17 0-28.5-11.5T240-480q0-17 11.5-28.5T280-520h400q17 0 28.5 11.5T720-480q0 17-11.5 28.5T680-440H280Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['rounded/check_indeterminate_small']='M280-440q-17 0-28.5-11.5T240-480q0-17 11.5-28.5T280-520h400q17 0 28.5 11.5T720-480q0 17-11.5 28.5T680-440H280Z'

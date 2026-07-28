@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-draft-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-80v-800h400l240 240v560H160Zm360-520h200L520-800v200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/draft-fill']='M160-80v-800h400l240 240v560H160Zm360-520h200L520-800v200Z'

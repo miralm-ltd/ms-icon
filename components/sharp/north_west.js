@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-north_west', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M744-160 280-624v264h-80v-400h400v80H336l464 464-56 56Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/north_west']='M744-160 280-624v264h-80v-400h400v80H336l464 464-56 56Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-open_in_full', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-320h80v184l504-504H520v-80h320v320h-80v-184L256-200h184v80H120Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/open_in_full']='M120-120v-320h80v184l504-504H520v-80h320v320h-80v-184L256-200h184v80H120Z'

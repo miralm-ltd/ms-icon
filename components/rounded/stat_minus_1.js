@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-rounded-stat_minus_1', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M465-364.5q-7-2.5-13-8.5L268-557q-11-11-11.5-27.5T268-613q11-11 28-11t28 11l156 155 156-155q11-11 27.5-11.5T692-613q11 11 11 28t-11 28L508-373q-6 6-13 8.5t-15 2.5q-8 0-15-2.5Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['rounded/stat_minus_1']='M465-364.5q-7-2.5-13-8.5L268-557q-11-11-11.5-27.5T268-613q11-11 28-11t28 11l156 155 156-155q11-11 27.5-11.5T692-613q11 11 11 28t-11 28L508-373q-6 6-13 8.5t-15 2.5q-8 0-15-2.5Z'

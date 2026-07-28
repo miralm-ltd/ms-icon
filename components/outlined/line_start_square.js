@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-line_start_square', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-340h280v-280H160v280Zm360 80H80v-440h440v180h360v80H520v180ZM300-480Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['line_start_square']='M160-340h280v-280H160v280Zm360 80H80v-440h440v180h360v80H520v180ZM300-480Z'

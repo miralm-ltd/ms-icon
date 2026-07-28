@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-planner_banner_ad_pt-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h480q33 0 56.5 23.5T800-800v640q0 33-23.5 56.5T720-80H240Zm40-160h400L542-420l-92 120-62-80-108 140Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['planner_banner_ad_pt-fill']='M240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h480q33 0 56.5 23.5T800-800v640q0 33-23.5 56.5T720-80H240Zm40-160h400L542-420l-92 120-62-80-108 140Z'

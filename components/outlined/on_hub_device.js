@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-on_hub_device', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-120v-80h320v80H320Zm0-120-40-514q-3-35 21-60.5t59-25.5h240q35 0 59 25.5t21 60.5l-40 514H320Zm74-80h172l34-440H360l34 440Zm0-440h-34 240-206Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['on_hub_device']='M320-120v-80h320v80H320Zm0-120-40-514q-3-35 21-60.5t59-25.5h240q35 0 59 25.5t21 60.5l-40 514H320Zm74-80h172l34-440H360l34 440Zm0-440h-34 240-206Z'

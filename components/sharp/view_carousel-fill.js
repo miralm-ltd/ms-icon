@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-view_carousel-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-280v-400h160v400H80Zm200 80v-560h400v560H280Zm440-80v-400h160v400H720Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/view_carousel-fill']='M80-280v-400h160v400H80Zm200 80v-560h400v560H280Zm440-80v-400h160v400H720Z'

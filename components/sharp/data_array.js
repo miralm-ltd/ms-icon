@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-data_array', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M600-160v-80h120v-480H600v-80h200v640H600Zm-440 0v-640h200v80H240v480h120v80H160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/data_array']='M600-160v-80h120v-480H600v-80h200v640H600Zm-440 0v-640h200v80H240v480h120v80H160Z'

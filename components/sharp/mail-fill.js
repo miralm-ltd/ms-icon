@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-mail-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-640h800v640H80Zm400-280 320-200v-80L480-520 160-720v80l320 200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/mail-fill']='M80-160v-640h800v640H80Zm400-280 320-200v-80L480-520 160-720v80l320 200Z'

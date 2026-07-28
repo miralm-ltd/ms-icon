@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-library_books-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M400-400h160v-80H400v80Zm0-120h320v-80H400v80Zm0-120h320v-80H400v80ZM240-240v-640h640v640H240ZM80-80v-640h80v560h560v80H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/library_books-fill']='M400-400h160v-80H400v80Zm0-120h320v-80H400v80Zm0-120h320v-80H400v80ZM240-240v-640h640v640H240ZM80-80v-640h80v560h560v80H80Z'

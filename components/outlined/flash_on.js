@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-flash_on', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m480-336 128-184H494l80-280H360v320h120v144ZM400-80v-320H280v-480h400l-80 280h160L400-80Zm80-400H360h120Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['flash_on']='m480-336 128-184H494l80-280H360v320h120v144ZM400-80v-320H280v-480h400l-80 280h160L400-80Zm80-400H360h120Z'

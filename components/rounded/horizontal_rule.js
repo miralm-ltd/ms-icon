@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-rounded-horizontal_rule', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-440q-17 0-28.5-11.5T160-480q0-17 11.5-28.5T200-520h560q17 0 28.5 11.5T800-480q0 17-11.5 28.5T760-440H200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['rounded/horizontal_rule']='M200-440q-17 0-28.5-11.5T160-480q0-17 11.5-28.5T200-520h560q17 0 28.5 11.5T800-480q0 17-11.5 28.5T760-440H200Z'

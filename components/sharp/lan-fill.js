@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-lan-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-80v-280h120v-160h200v-80H320v-280h320v280H520v80h200v160h120v280H520v-280h120v-80H320v80h120v280H120Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/lan-fill']='M120-80v-280h120v-160h200v-80H320v-280h320v280H520v80h200v160h120v280H520v-280h120v-80H320v80h120v280H120Z'

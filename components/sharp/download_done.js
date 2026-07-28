@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-download_done', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M382-320 155-547l57-57 170 170 366-366 57 57-423 423ZM200-160v-80h560v80H200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/download_done']='M382-320 155-547l57-57 170 170 366-366 57 57-423 423ZM200-160v-80h560v80H200Z'

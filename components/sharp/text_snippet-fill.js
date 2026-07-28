@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-text_snippet-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-720h480l240 240v480H120Zm160-160h400v-80H280v80Zm0-160h400v-80H280v80Zm0-160h280v-80H280v80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/text_snippet-fill']='M120-120v-720h480l240 240v480H120Zm160-160h400v-80H280v80Zm0-160h400v-80H280v80Zm0-160h280v-80H280v80Z'

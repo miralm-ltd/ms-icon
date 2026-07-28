@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-chips-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-440h400v-80H280v80ZM120-120v-720h720v720H120Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/chips-fill']='M280-440h400v-80H280v80ZM120-120v-720h720v720H120Z'

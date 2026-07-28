@@ -1,6 +1,6 @@
 {
   "name": "ms-icon",
-  "version": "0.0.2",
+  "version": "1.0.0-beta.1",
   "main": "main.js",
   "type": "module",
   "scripts": {
@@ -28,16 +28,32 @@
     },
     "./*.svg": "./icons/*.svg",
     "./*.woff2": "./fonts/*.woff2",
+    "./outlined": {
+      "types": "./type.d.ts",
+      "default": "./components/outlined.js"
+    },
+    "./rounded": {
+      "types": "./type.d.ts",
+      "default": "./components/rounded.js"
+    },
+    "./sharp": {
+      "types": "./type.d.ts",
+      "default": "./components/sharp.js"
+    },
+    "./outlined/*": {
+      "types": "./type.d.ts",
+      "default": "./components/outlined/*.js"
+    },
     "./rounded/*": {
-      "types": "./components/component.d.ts",
+      "types": "./type.d.ts",
       "default": "./components/rounded/*.js"
     },
     "./sharp/*": {
-      "types": "./components/component.d.ts",
+      "types": "./type.d.ts",
       "default": "./components/sharp/*.js"
     },
     "./*": {
-      "types": "./components/component.d.ts",
+      "types": "./type.d.ts",
       "default": "./components/outlined/*.js"
     }
   },

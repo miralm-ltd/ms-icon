@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-arrow_left', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M560-280 360-480l200-200v400Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/arrow_left']='M560-280 360-480l200-200v400Z'

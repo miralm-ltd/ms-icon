@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-grouped_bar_chart', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-160v-480h160v480H160Zm200 0v-280h160v280H360Zm280 0v-640h160v640H640Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['grouped_bar_chart']='M160-160v-480h160v480H160Zm200 0v-280h160v280H360Zm280 0v-640h160v640H640Z'

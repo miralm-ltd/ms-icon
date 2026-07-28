@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-last_page', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m280-240-56-56 184-184-184-184 56-56 240 240-240 240Zm360 0v-480h80v480h-80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['last_page']='m280-240-56-56 184-184-184-184 56-56 240 240-240 240Zm360 0v-480h80v480h-80Z'

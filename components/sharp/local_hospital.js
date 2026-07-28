@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-local_hospital', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M420-280h120v-140h140v-120H540v-140H420v140H280v120h140v140ZM120-120v-720h720v720H120Zm80-80h560v-560H200v560Zm0 0v-560 560Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/local_hospital']='M420-280h120v-140h140v-120H540v-140H420v140H280v120h140v140ZM120-120v-720h720v720H120Zm80-80h560v-560H200v560Zm0 0v-560 560Z'

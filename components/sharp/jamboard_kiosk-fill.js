@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-jamboard_kiosk-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-120v-80h200v-120H80v-520h800v520H520v120h200v80H240Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/jamboard_kiosk-fill']='M240-120v-80h200v-120H80v-520h800v520H520v120h200v80H240Z'

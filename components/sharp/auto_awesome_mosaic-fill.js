@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-auto_awesome_mosaic-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M440-120H120v-720h320v720Zm80-400v-320h320v320H520Zm0 400v-320h320v320H520Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/auto_awesome_mosaic-fill']='M440-120H120v-720h320v720Zm80-400v-320h320v320H520Zm0 400v-320h320v320H520Z'

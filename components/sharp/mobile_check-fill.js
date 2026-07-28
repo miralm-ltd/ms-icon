@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-mobile_check-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m442-360 198-198-56-56-142 142-56-56-56 56 112 112ZM200-40v-880h560v204h40v192h-40v484H200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/mobile_check-fill']='m442-360 198-198-56-56-142 142-56-56-56 56 112 112ZM200-40v-880h560v204h40v192h-40v484H200Z'

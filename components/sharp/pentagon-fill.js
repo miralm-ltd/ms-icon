@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-pentagon-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-120 80-600l400-280 400 280-160 480H240Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/pentagon-fill']='M240-120 80-600l400-280 400 280-160 480H240Z'

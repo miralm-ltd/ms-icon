@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-tilt_arrow_up', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m80-120 160-720h480l160 720H80Zm100-80h600L656-760H304L180-200Zm260-287v167h80v-167l64 63 56-56-160-160-160 160 56 57 64-64Zm340 287H180h600Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/tilt_arrow_up']='m80-120 160-720h480l160 720H80Zm100-80h600L656-760H304L180-200Zm260-287v167h80v-167l64 63 56-56-160-160-160 160 56 57 64-64Zm340 287H180h600Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-text_ad_off-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M818-28 686-160H80v-640h80l80 80H126L26-820l57-57L875-85l-57 57ZM200-280h366l-80-80H200v80Zm0-160h206l-80-80H200v80Zm0-160h46l-80-80h34v80Zm74-200h606v606L634-440h126v-80H554l-80-80h126v-80H394L274-800Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/text_ad_off-fill']='M818-28 686-160H80v-640h80l80 80H126L26-820l57-57L875-85l-57 57ZM200-280h366l-80-80H200v80Zm0-160h206l-80-80H200v80Zm0-160h46l-80-80h34v80Zm74-200h606v606L634-440h126v-80H554l-80-80h126v-80H394L274-800Z'

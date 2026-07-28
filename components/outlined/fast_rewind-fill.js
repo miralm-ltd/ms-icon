@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-fast_rewind-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M860-240 500-480l360-240v480Zm-400 0L100-480l360-240v480Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['fast_rewind-fill']='M860-240 500-480l360-240v480Zm-400 0L100-480l360-240v480Z'

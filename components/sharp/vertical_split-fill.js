@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-vertical_split-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-360v-80h320v80H120Zm0 160v-80h320v80H120Zm0-320v-80h320v80H120Zm0-160v-80h320v80H120Zm400 480v-560h320v560H520Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/vertical_split-fill']='M120-360v-80h320v80H120Zm0 160v-80h320v80H120Zm0-320v-80h320v80H120Zm0-160v-80h320v80H120Zm400 480v-560h320v560H520Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-width_wide', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-640h800v640H80Zm80-80h80v-480h-80v480Zm160 0h320v-480H320v480Zm400 0h80v-480h-80v480ZM320-720v480-480Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/width_wide']='M80-160v-640h800v640H80Zm80-80h80v-480h-80v480Zm160 0h320v-480H320v480Zm400 0h80v-480h-80v480ZM320-720v480-480Z'

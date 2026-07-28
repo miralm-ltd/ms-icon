@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-close_small', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m336-280-56-56 144-144-144-143 56-56 144 144 143-144 56 56-144 143 144 144-56 56-143-144-144 144Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/close_small']='m336-280-56-56 144-144-144-143 56-56 144 144 143-144 56 56-144 143 144 144-56 56-143-144-144 144Z'

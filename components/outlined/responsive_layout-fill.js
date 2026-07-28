@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-responsive_layout-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M640-120v-520H380v-200h460v720H640Zm-260 0v-440h180v440H380Zm-260 0v-440h180v440H120Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['responsive_layout-fill']='M640-120v-520H380v-200h460v720H640Zm-260 0v-440h180v440H380Zm-260 0v-440h180v440H120Z'

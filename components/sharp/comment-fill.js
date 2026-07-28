@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-comment-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-400h480v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM80-240v-640h800v800L720-240H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/comment-fill']='M240-400h480v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM80-240v-640h800v800L720-240H80Z'

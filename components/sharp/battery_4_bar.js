@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-battery_4_bar', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M360-480h240v-240H360v240ZM280-80v-720h120v-80h160v80h120v720H280Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/battery_4_bar']='M360-480h240v-240H360v240ZM280-80v-720h120v-80h160v80h120v720H280Z'

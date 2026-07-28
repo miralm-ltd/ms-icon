@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-keyboard_double_arrow_left', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M440-240 200-480l240-240 56 56-183 184 183 184-56 56Zm264 0L464-480l240-240 56 56-183 184 183 184-56 56Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['keyboard_double_arrow_left']='M440-240 200-480l240-240 56 56-183 184 183 184-56 56Zm264 0L464-480l240-240 56 56-183 184 183 184-56 56Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-mobile_landscape-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M40-200v-560h204v-40h192v40h484v560H40Zm188.5-251.5Q240-463 240-480t-11.5-28.5Q217-520 200-520t-28.5 11.5Q160-497 160-480t11.5 28.5Q183-440 200-440t28.5-11.5Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/mobile_landscape-fill']='M40-200v-560h204v-40h192v40h484v560H40Zm188.5-251.5Q240-463 240-480t-11.5-28.5Q217-520 200-520t-28.5 11.5Q160-497 160-480t11.5 28.5Q183-440 200-440t28.5-11.5Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-water_ec-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M440-240h40l160-240H520v-160h-40L320-400h120v160Zm-188.5 66Q160-268 160-408q0-100 79.5-217.5T480-880q161 137 240.5 254.5T800-408q0 140-91.5 234T480-80q-137 0-228.5-94Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['water_ec-fill']='M440-240h40l160-240H520v-160h-40L320-400h120v160Zm-188.5 66Q160-268 160-408q0-100 79.5-217.5T480-880q161 137 240.5 254.5T800-408q0 140-91.5 234T480-80q-137 0-228.5-94Z'

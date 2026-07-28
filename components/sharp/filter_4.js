@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-filter_4', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-240v-640h640v640H240Zm80-80h480v-480H320v480ZM80-80v-640h80v560h560v80H80Zm240-240v-480 480Zm280-40h80v-400h-80v160h-80v-160h-80v240h160v160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/filter_4']='M240-240v-640h640v640H240Zm80-80h480v-480H320v480ZM80-80v-640h80v560h560v80H80Zm240-240v-480 480Zm280-40h80v-400h-80v160h-80v-160h-80v240h160v160Z'

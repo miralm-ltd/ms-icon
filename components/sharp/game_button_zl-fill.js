@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-game_button_zl-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M257-340h206v-50H327l133-188v-42H263v50h127L257-380v40Zm623-460v480q0 67-47 113.5T720-160H240q-67 0-113.5-46.5T80-320v-480h800ZM522-340h178v-50H576v-230h-54v280Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/game_button_zl-fill']='M257-340h206v-50H327l133-188v-42H263v50h127L257-380v40Zm623-460v480q0 67-47 113.5T720-160H240q-67 0-113.5-46.5T80-320v-480h800ZM522-340h178v-50H576v-230h-54v280Z'

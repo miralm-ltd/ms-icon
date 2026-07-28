@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-gallery_thumbnail-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M40-200v-560h560v560H40Zm640-320v-240h240v240H680ZM160-360h320L375-500l-75 100-55-73-85 113Zm520 160v-240h240v240H680Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/gallery_thumbnail-fill']='M40-200v-560h560v560H40Zm640-320v-240h240v240H680ZM160-360h320L375-500l-75 100-55-73-85 113Zm520 160v-240h240v240H680Z'

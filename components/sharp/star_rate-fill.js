@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-star_rate-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m233-120 93-304L80-600h304l96-320 96 320h304L634-424l93 304-247-188-247 188Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/star_rate-fill']='m233-120 93-304L80-600h304l96-320 96 320h304L634-424l93 304-247-188-247 188Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-view_agenda', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-320h720v320H120Zm80-80h560v-160H200v160Zm-80-320v-320h720v320H120Zm80-80h560v-160H200v160Zm0 240v160-160Zm0-400v160-160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/view_agenda']='M120-120v-320h720v320H120Zm80-80h560v-160H200v160Zm-80-320v-320h720v320H120Zm80-80h560v-160H200v160Zm0 240v160-160Zm0-400v160-160Z'

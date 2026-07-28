@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-ink_pen-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M611-461 461-612l111-110-29-29-219 219-56-56 275-275 85 85 79-79 150 150-246 246ZM270-120H120v-150l284-285 151 150-285 285Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/ink_pen-fill']='M611-461 461-612l111-110-29-29-219 219-56-56 275-275 85 85 79-79 150 150-246 246ZM270-120H120v-150l284-285 151 150-285 285Z'

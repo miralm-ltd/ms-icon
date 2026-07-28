@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-tabs-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-720h720v720H120Zm80-80h560v-280H200v280Zm280-440h240v-80H480v80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/tabs-fill']='M120-120v-720h720v720H120Zm80-80h560v-280H200v280Zm280-440h240v-80H480v80Z'

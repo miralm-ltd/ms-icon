@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-switch_right', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M400-200 120-480l280-280v560Zm160 0v-560l280 280-280 280Zm60-145 135-135-135-135v270Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/switch_right']='M400-200 120-480l280-280v560Zm160 0v-560l280 280-280 280Zm60-145 135-135-135-135v270Z'

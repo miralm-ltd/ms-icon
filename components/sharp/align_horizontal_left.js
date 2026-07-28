@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-align_horizontal_left', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-80v-800h80v800H80Zm160-200v-120h400v120H240Zm0-280v-120h640v120H240Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/align_horizontal_left']='M80-80v-800h80v800H80Zm160-200v-120h400v120H240Zm0-280v-120h640v120H240Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-computer-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M40-120v-80h880v80H40Zm40-120v-600h800v600H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/computer-fill']='M40-120v-80h880v80H40Zm40-120v-600h800v600H80Z'

@@ -15,8 +15,8 @@ import 'ms-icon/home-fill'
 
 function App() {
   return (
-    <ms-home></ms-home>
-    <ms-home-fill></ms-home-fill>
+    <ms-icon name="home"></ms-icon>
+    <ms-icon name="home-fill"></ms-icon>
   )
 }
 ```
@@ -34,13 +34,26 @@ import 'ms-icon/sharp/home-fill'
 function App() {
   return (
     //Rounded
-    <ms-rounded-home></ms-rounded-home>
-    <ms-rounded-home-fill></ms-rounded-home-fill>
+    <ms-icon name="rounded/home"></ms-icon>
+    <ms-icon name="rounded/home-fill"></ms-icon>
     //Rounded
-    <ms-sharp-home></ms-sharp-home>
-    <ms-sharp-home-fill></ms-sharp-home-fill>
+    <ms-icon name="sharp/home"></ms-icon>
+    <ms-icon name="sharp/home-fill"></ms-icon>
   )
 }
+```
+
+If you want to load all icons (not recommended, large file size)
+
+```js
+import 'ms-icon/outlined'
+import 'ms-icon/outlined-fill'
+//Rounded
+import 'ms-icon/rounded'
+import 'ms-icon/sharp-fill'
+//Sharp
+import 'ms-icon/sharp'
+import 'ms-icon/sharp-fill'
 ```
 
 Options
@@ -58,7 +71,7 @@ options.attributes = {
 After the component is mounted
 
 ```html
-<ms-menu class="icon" icon></ms-menu>
+<ms-icon class="icon" icon></ms-icon>
 ```
 
 ## Import SVG

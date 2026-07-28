@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-star-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m233-120 65-281L80-590l288-25 112-265 112 265 288 25-218 189 65 281-247-149-247 149Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/star-fill']='m233-120 65-281L80-590l288-25 112-265 112 265 288 25-218 189 65 281-247-149-247 149Z'

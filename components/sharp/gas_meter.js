@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-gas_meter', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-80v-720h200v-80h80v80h80v-80h80v80h200v720H160Zm80-80h480v-560H240v560Zm80-400h320v-80H320v80Zm160 320q42 0 71-28.5t29-69.5q0-33-19-56.5T480-490q-63 72-81.5 96T380-338q0 41 29 69.5t71 28.5Zm-240 80v-560 560Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/gas_meter']='M160-80v-720h200v-80h80v80h80v-80h80v80h200v720H160Zm80-80h480v-560H240v560Zm80-400h320v-80H320v80Zm160 320q42 0 71-28.5t29-69.5q0-33-19-56.5T480-490q-63 72-81.5 96T380-338q0 41 29 69.5t71 28.5Zm-240 80v-560 560Z'

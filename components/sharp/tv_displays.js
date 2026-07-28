@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-tv_displays', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-320v-560h640v80H160v480H80ZM440-80v-80H240v-560h680v560H720v80H440ZM320-240h520v-400H320v400Zm260-200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/tv_displays']='M80-320v-560h640v80H160v480H80ZM440-80v-80H240v-560h680v560H720v80H440ZM320-240h520v-400H320v400Zm260-200Z'

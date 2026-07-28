@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-health_metrics-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-80v-200H80v-160h258l68 103h72l54-173 46 70h302v160H680v200H280Zm148-370-47-70H80v-160h200v-200h400v200h200v160H621l-68-102h-71l-54 172Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/health_metrics-fill']='M280-80v-200H80v-160h258l68 103h72l54-173 46 70h302v160H680v200H280Zm148-370-47-70H80v-160h200v-200h400v200h200v160H621l-68-102h-71l-54 172Z'

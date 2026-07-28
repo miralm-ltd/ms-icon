@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-format_image_back-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-80h720v80H120Zm0-160v-80h160v-80H120v-80h160v-80H120v-80h720v80H680v80h160v80H680v80h160v80H120Zm0-480v-80h720v80H120Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['format_image_back-fill']='M120-120v-80h720v80H120Zm0-160v-80h160v-80H120v-80h160v-80H120v-80h720v80H680v80h160v80H680v80h160v80H120Zm0-480v-80h720v80H120Z'

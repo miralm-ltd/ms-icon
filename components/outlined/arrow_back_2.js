@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-arrow_back_2', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M640-200 200-480l440-280v560Zm-80-280Zm0 134v-268L350-480l210 134Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['arrow_back_2']='M640-200 200-480l440-280v560Zm-80-280Zm0 134v-268L350-480l210 134Z'

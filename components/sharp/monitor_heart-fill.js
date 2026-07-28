@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-monitor_heart-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-520v-280h800v280H665l-78-156h-54L400-410l-55-110H80Zm0 360v-280h215l78 156h54l133-266 55 110h265v280H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/monitor_heart-fill']='M80-520v-280h800v280H665l-78-156h-54L400-410l-55-110H80Zm0 360v-280h215l78 156h54l133-266 55 110h265v280H80Z'

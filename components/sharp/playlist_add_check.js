@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-playlist_add_check', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-320v-80h320v80H120Zm0-160v-80h480v80H120Zm0-160v-80h480v80H120Zm534 440L512-342l56-56 86 84 170-170 56 58-226 226Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/playlist_add_check']='M120-320v-80h320v80H120Zm0-160v-80h480v80H120Zm0-160v-80h480v80H120Zm534 440L512-342l56-56 86 84 170-170 56 58-226 226Z'

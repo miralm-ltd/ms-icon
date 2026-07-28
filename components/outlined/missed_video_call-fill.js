@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-missed_video_call-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m428-320 180-182-56-56-124 124-88-86h60v-80H200v200h80v-68l148 148ZM160-160q-33 0-56.5-23.5T80-240v-480q0-33 23.5-56.5T160-800h480q33 0 56.5 23.5T720-720v180l160-160v440L720-420v180q0 33-23.5 56.5T640-160H160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['missed_video_call-fill']='m428-320 180-182-56-56-124 124-88-86h60v-80H200v200h80v-68l148 148ZM160-160q-33 0-56.5-23.5T80-240v-480q0-33 23.5-56.5T160-800h480q33 0 56.5 23.5T720-720v180l160-160v440L720-420v180q0 33-23.5 56.5T640-160H160Z'

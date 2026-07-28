@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-filter_alt-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M400-160v-280L118-800h724L560-440v280H400Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/filter_alt-fill']='M400-160v-280L118-800h724L560-440v280H400Z'

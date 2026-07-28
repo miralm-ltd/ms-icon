@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-switch_off', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-80v-800h640v800H160Zm80-80h480v-640H240v640Zm80-120h320v-400H320v400Zm240-320v160H400v-160h160Zm-80 410q13 0 21.5-9t8.5-21q0-13-8.5-21.5T480-250q-12 0-21 8.5t-9 21.5q0 12 9 21t21 9Zm0-520q13 0 21.5-9t8.5-21q0-13-8.5-21.5T480-770q-12 0-21 8.5t-9 21.5q0 12 9 21t21 9Zm0 230Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/switch_off']='M160-80v-800h640v800H160Zm80-80h480v-640H240v640Zm80-120h320v-400H320v400Zm240-320v160H400v-160h160Zm-80 410q13 0 21.5-9t8.5-21q0-13-8.5-21.5T480-250q-12 0-21 8.5t-9 21.5q0 12 9 21t21 9Zm0-520q13 0 21.5-9t8.5-21q0-13-8.5-21.5T480-770q-12 0-21 8.5t-9 21.5q0 12 9 21t21 9Zm0 230Z'

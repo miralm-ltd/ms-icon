@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-remove_from_queue-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-480h320v-80H320v80Zm0 360v-80H80v-640h800v640H640v80H320Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/remove_from_queue-fill']='M320-480h320v-80H320v80Zm0 360v-80H80v-640h800v640H640v80H320Z'

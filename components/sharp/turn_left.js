@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-turn_left', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M600-160v-360H272l64 64-56 56-160-160 160-160 56 56-64 64h408v440h-80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/turn_left']='M600-160v-360H272l64 64-56 56-160-160 160-160 56 56-64 64h408v440h-80Z'

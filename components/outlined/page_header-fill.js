@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-page_header-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-760v-80h720v80H120Zm640 80q33 0 56.5 23.5T840-600v400q0 33-23.5 56.5T760-120H200q-33 0-56.5-23.5T120-200v-400q0-33 23.5-56.5T200-680h560Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['page_header-fill']='M120-760v-80h720v80H120Zm640 80q33 0 56.5 23.5T840-600v400q0 33-23.5 56.5T760-120H200q-33 0-56.5-23.5T120-200v-400q0-33 23.5-56.5T200-680h560Z'

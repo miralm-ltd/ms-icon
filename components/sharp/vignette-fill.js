@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-vignette-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-640h800v640H80Zm569-207.5Q720-415 720-480t-71-112.5Q578-640 480-640t-169 47.5Q240-545 240-480t71 112.5Q382-320 480-320t169-47.5Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/vignette-fill']='M80-160v-640h800v640H80Zm569-207.5Q720-415 720-480t-71-112.5Q578-640 480-640t-169 47.5Q240-545 240-480t71 112.5Q382-320 480-320t169-47.5Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-planner_banner_ad_pt-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-80v-800h640v800H160Zm120-160h400L542-420l-92 120-62-80-108 140Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/planner_banner_ad_pt-fill']='M160-80v-800h640v800H160Zm120-160h400L542-420l-92 120-62-80-108 140Z'

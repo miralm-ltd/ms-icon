@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-speed_camera-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m701-360-87-50 140-104 86 50-139 104ZM160-160v-80h200v-238L171-587l140-242 450 260-244 182-77-44v271H160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/speed_camera-fill']='m701-360-87-50 140-104 86 50-139 104ZM160-160v-80h200v-238L171-587l140-242 450 260-244 182-77-44v271H160Z'

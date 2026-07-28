@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-blinds_2_closed-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-880h560q50 0 85 35t35 85v120h-80v560H160v-560H80v-120q0-50 35-85t85-35Zm22 720h516l-56-80h-42v20q0 17-11.5 28.5T600-180q-17 0-28.5-11.5T560-220v-20H278l-56 80Zm418-400h98l-56-80h-42v80Zm0 200h98l-56-80h-42v80Zm-418 0h338v-80H278l-56 80Zm0-200h338v-80H278l-56 80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['blinds_2_closed-fill']='M200-880h560q50 0 85 35t35 85v120h-80v560H160v-560H80v-120q0-50 35-85t85-35Zm22 720h516l-56-80h-42v20q0 17-11.5 28.5T600-180q-17 0-28.5-11.5T560-220v-20H278l-56 80Zm418-400h98l-56-80h-42v80Zm0 200h98l-56-80h-42v80Zm-418 0h338v-80H278l-56 80Zm0-200h338v-80H278l-56 80Z'

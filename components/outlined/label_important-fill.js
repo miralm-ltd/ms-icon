@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-label_important-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m80-160 240-320L80-800h520q19 0 36 8.5t28 23.5l216 288-216 288q-11 15-28 23.5t-36 8.5H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['label_important-fill']='m80-160 240-320L80-800h520q19 0 36 8.5t28 23.5l216 288-216 288q-11 15-28 23.5t-36 8.5H80Z'

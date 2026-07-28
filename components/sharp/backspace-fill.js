@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-backspace-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m456-320 104-104 104 104 56-56-104-104 104-104-56-56-104 104-104-104-56 56 104 104-104 104 56 56ZM320-160 80-480l240-320h560v640H320Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/backspace-fill']='m456-320 104-104 104 104 56-56-104-104 104-104-56-56-104 104-104-104-56 56 104 104-104 104 56 56ZM320-160 80-480l240-320h560v640H320Z'

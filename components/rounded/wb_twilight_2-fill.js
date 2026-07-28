@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-rounded-wb_twilight_2-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-160q-17 0-28.5-11.5T80-200q0-17 11.5-28.5T120-240h720q17 0 28.5 11.5T880-200q0 17-11.5 28.5T840-160H120Zm80-160q0-117 81.5-198.5T480-600q117 0 198.5 81.5T760-320H200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['rounded/wb_twilight_2-fill']='M120-160q-17 0-28.5-11.5T80-200q0-17 11.5-28.5T120-240h720q17 0 28.5 11.5T880-200q0 17-11.5 28.5T840-160H120Zm80-160q0-117 81.5-198.5T480-600q117 0 198.5 81.5T760-320H200Z'

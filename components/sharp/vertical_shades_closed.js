@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-vertical_shades_closed', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-120v-80h80v-640h640v640h80v80H80Zm160-80h60v-560h-60v560Zm140 0h60v-560h-60v560Zm140 0h60v-560h-60v560Zm140 0h60v-560h-60v560Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/vertical_shades_closed']='M80-120v-80h80v-640h640v640h80v80H80Zm160-80h60v-560h-60v560Zm140 0h60v-560h-60v560Zm140 0h60v-560h-60v560Zm140 0h60v-560h-60v560Z'

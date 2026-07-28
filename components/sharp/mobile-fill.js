@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-mobile-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M508.5-731.5Q520-743 520-760t-11.5-28.5Q497-800 480-800t-28.5 11.5Q440-777 440-760t11.5 28.5Q463-720 480-720t28.5-11.5ZM200-40v-880h560v204h40v192h-40v484H200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/mobile-fill']='M508.5-731.5Q520-743 520-760t-11.5-28.5Q497-800 480-800t-28.5 11.5Q440-777 440-760t11.5 28.5Q463-720 480-720t28.5-11.5ZM200-40v-880h560v204h40v192h-40v484H200Z'

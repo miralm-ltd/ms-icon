@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-arrows_outward', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m680-280-56-56 103-104H520v-80h207L624-624l56-56 200 200-200 200Zm-400 0L80-480l200-200 56 56-103 104h207v80H233l103 104-56 56Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['arrows_outward']='m680-280-56-56 103-104H520v-80h207L624-624l56-56 200 200-200 200Zm-400 0L80-480l200-200 56 56-103 104h207v80H233l103 104-56 56Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-step_into', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M395-115q-35-35-35-85t35-85q35-35 85-35t85 35q35 35 35 85t-35 85q-35 35-85 35t-85-35Zm85-285L280-600l56-56 104 103v-327h80v327l103-103 57 56-200 200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['step_into']='M395-115q-35-35-35-85t35-85q35-35 85-35t85 35q35 35 35 85t-35 85q-35 35-85 35t-85-35Zm85-285L280-600l56-56 104 103v-327h80v327l103-103 57 56-200 200Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-package-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-280h200v-80H280v80ZM120-120v-720h720v720H120Zm200-640v320l160-80 160 80v-320H320Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/package-fill']='M280-280h200v-80H280v80ZM120-120v-720h720v720H120Zm200-640v320l160-80 160 80v-320H320Z'

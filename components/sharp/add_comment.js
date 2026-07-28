@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-add_comment', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M440-400h80v-120h120v-80H520v-120h-80v120H320v80h120v120ZM80-80v-800h800v640H240L80-80Zm126-240h594v-480H160v525l46-45Zm-46 0v-480 480Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/add_comment']='M440-400h80v-120h120v-80H520v-120h-80v120H320v80h120v120ZM80-80v-800h800v640H240L80-80Zm126-240h594v-480H160v525l46-45Zm-46 0v-480 480Z'

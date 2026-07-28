@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-sports_hockey', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-160h80v160H80Zm120 0v-160h160l34-78 64 140-44 98H200Zm600 0v-160h80v160h-80Zm-40 0H546L254-800h134l92 208 92-208h134L544-446l56 126h160v160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/sports_hockey']='M80-160v-160h80v160H80Zm120 0v-160h160l34-78 64 140-44 98H200Zm600 0v-160h80v160h-80Zm-40 0H546L254-800h134l92 208 92-208h134L544-446l56 126h160v160Z'

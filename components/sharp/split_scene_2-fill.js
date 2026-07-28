@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-split_scene_2-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-120v-240h640v240H160ZM80-440v-80h80v-320h640v320h80v80H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/split_scene_2-fill']='M160-120v-240h640v240H160ZM80-440v-80h80v-320h640v320h80v80H80Z'

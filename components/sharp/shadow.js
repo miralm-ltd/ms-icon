@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-shadow', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-80v-640h160v-160h640v640H720v160H80Zm240-240h480v-480H320v480Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/shadow']='M80-80v-640h160v-160h640v640H720v160H80Zm240-240h480v-480H320v480Z'

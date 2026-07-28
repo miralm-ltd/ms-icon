@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-server_person-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M160-80v-800h640v800H600l-40-80H400l-40 80H160Zm160-280h320v-22q0-52-50-75t-110-23q-60 0-110 23t-50 75v22Zm216.5-183.5Q560-567 560-600t-23.5-56.5Q513-680 480-680t-56.5 23.5Q400-633 400-600t23.5 56.5Q447-520 480-520t56.5-23.5Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/server_person-fill']='M160-80v-800h640v800H600l-40-80H400l-40 80H160Zm160-280h320v-22q0-52-50-75t-110-23q-60 0-110 23t-50 75v22Zm216.5-183.5Q560-567 560-600t-23.5-56.5Q513-680 480-680t-56.5 23.5Q400-633 400-600t23.5 56.5Q447-520 480-520t56.5-23.5Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-volume_mute', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-360v-240h160l200-200v640L440-360H280Zm80-80h114l86 86v-252l-86 86H360v80Zm100-40Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['volume_mute']='M280-360v-240h160l200-200v640L440-360H280Zm80-80h114l86 86v-252l-86 86H360v80Zm100-40Z'

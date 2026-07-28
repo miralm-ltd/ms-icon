@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-mountain_flag-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="m281-487 55-113h104v-280h280l-40 80 40 80H520v120h100l57 114-120 80-77-39-77 39-122-81ZM80-80l165-335 152 101 83-41 83 41 150-99L880-80H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/mountain_flag-fill']='m281-487 55-113h104v-280h280l-40 80 40 80H520v120h100l57 114-120 80-77-39-77 39-122-81ZM80-80l165-335 152 101 83-41 83 41 150-99L880-80H80Z'

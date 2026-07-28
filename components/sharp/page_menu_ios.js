@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-page_menu_ios', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-80h480v80H120Zm0-160v-80h720v80H120Zm0-160v-400h720v400H120Zm80-80h560v-240H200v240Zm0 0v-240 240Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/page_menu_ios']='M120-120v-80h480v80H120Zm0-160v-80h720v80H120Zm0-160v-400h720v400H120Zm80-80h560v-240H200v240Zm0 0v-240 240Z'

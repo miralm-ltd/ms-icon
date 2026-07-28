@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-rounded-pen_size_5', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-320q0-50 35-85l320-320q35-35 85-35t85 35q35 35 35 85t-35 85L405-235q-35 35-85 35t-85-35q-35-35-35-85Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['rounded/pen_size_5']='M200-320q0-50 35-85l320-320q35-35 85-35t85 35q35 35 35 85t-35 85L405-235q-35 35-85 35t-85-35q-35-35-35-85Z'

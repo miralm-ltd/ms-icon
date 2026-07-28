@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-table_restaurant-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M672-520H289l-11 80h404l-10-80ZM160-160l49-360H67l80-280h666l80 280H752l48 360h-80l-27-200H267l-27 200h-80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/table_restaurant-fill']='M672-520H289l-11 80h404l-10-80ZM160-160l49-360H67l80-280h666l80 280H752l48 360h-80l-27-200H267l-27 200h-80Z'

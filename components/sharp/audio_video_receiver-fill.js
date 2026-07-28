@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-audio_video_receiver-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-280v-480h800v480h-80v80h-80v-80H240v80h-80v-80H80Zm636.5-183.5Q740-487 740-520t-23.5-56.5Q693-600 660-600t-56.5 23.5Q580-553 580-520t23.5 56.5Q627-440 660-440t56.5-23.5ZM240-440h280v-160H240v160Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/audio_video_receiver-fill']='M80-280v-480h800v480h-80v80h-80v-80H240v80h-80v-80H80Zm636.5-183.5Q740-487 740-520t-23.5-56.5Q693-600 660-600t-56.5 23.5Q580-553 580-520t23.5 56.5Q627-440 660-440t56.5-23.5ZM240-440h280v-160H240v160Z'

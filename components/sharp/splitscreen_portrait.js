@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-splitscreen_portrait', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-240h320v-200H320v200Zm0-280h320v-200H320v200ZM160-80v-800h640v800H160Zm80-80h480v-640H240v640Zm480-640H240h480Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/splitscreen_portrait']='M320-240h320v-200H320v200Zm0-280h320v-200H320v200ZM160-80v-800h640v800H160Zm80-80h480v-640H240v640Zm480-640H240h480Z'

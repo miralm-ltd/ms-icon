@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-table_view', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-80v-640h640v640H240Zm80-80h200v-120H320v120Zm280 0h200v-120H600v120ZM80-240v-640h640v80H160v560H80Zm240-120h200v-120H320v120Zm280 0h200v-120H600v120ZM320-560h480v-80H320v80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/table_view']='M240-80v-640h640v640H240Zm80-80h200v-120H320v120Zm280 0h200v-120H600v120ZM80-240v-640h640v80H160v560H80Zm240-120h200v-120H320v120Zm280 0h200v-120H600v120ZM320-560h480v-80H320v80Z'

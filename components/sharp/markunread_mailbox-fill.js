@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-markunread_mailbox-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-80v-560h160v-240h320v160H320v320h80v-240h480v560H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/markunread_mailbox-fill']='M80-80v-560h160v-240h320v160H320v320h80v-240h480v560H80Z'

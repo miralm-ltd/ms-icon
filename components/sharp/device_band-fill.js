@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-device_band-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-80v-520h-40v-120h40v-160h320v160h40v120h-40v520H320Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/device_band-fill']='M320-80v-520h-40v-120h40v-160h320v160h40v120h-40v520H320Z'

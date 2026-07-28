@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-dashboard_2_edit-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M440-520v-280h440v280H440ZM80-160v-280h400v280H80Zm0-360v-280h280v280H80ZM560-80v-123l263-262 123 122L683-80H560Zm263-224 37-39-37-37-38 38 38 38Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/dashboard_2_edit-fill']='M440-520v-280h440v280H440ZM80-160v-280h400v280H80Zm0-360v-280h280v280H80ZM560-80v-123l263-262 123 122L683-80H560Zm263-224 37-39-37-37-38 38 38 38Z'

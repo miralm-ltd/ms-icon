@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-note_stack-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M280-80v-601h600v401L680-80H280Zm520-240H640v160l160-160ZM172-197 67-788l591-105 24 133H200v558l-28 5Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/note_stack-fill']='M280-80v-601h600v401L680-80H280Zm520-240H640v160l160-160ZM172-197 67-788l591-105 24 133H200v558l-28 5Z'

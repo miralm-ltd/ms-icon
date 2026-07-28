@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-variables', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-280v-400h720v400H120Zm80-80h560v-240H200v240Zm0 0v-240 240Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['variables']='M120-280v-400h720v400H120Zm80-80h560v-240H200v240Zm0 0v-240 240Z'

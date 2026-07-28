@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-split_scene_left-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M600-160v-640h160q33 0 56.5 23.5T840-720v480q0 33-23.5 56.5T760-160H600ZM440-80v-80H200q-33 0-56.5-23.5T120-240v-480q0-33 23.5-56.5T200-800h240v-80h80v800h-80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['split_scene_left-fill']='M600-160v-640h160q33 0 56.5 23.5T840-720v480q0 33-23.5 56.5T760-160H600ZM440-80v-80H200q-33 0-56.5-23.5T120-240v-480q0-33 23.5-56.5T200-800h240v-80h80v800h-80Z'

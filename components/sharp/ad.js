@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-ad', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M120-120v-720h720v720H120Zm80-80h560v-440H200v440Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/ad']='M120-120v-720h720v720H120Zm80-80h560v-440H200v440Z'

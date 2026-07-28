@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-line_end_diamond-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M600-200 360-440H80v-80h280l240-240 280 280-280 280Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['line_end_diamond-fill']='M600-200 360-440H80v-80h280l240-240 280 280-280 280Z'

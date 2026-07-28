@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-rounded-eraser_size_5', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M402-120q-118 0-200-82t-82-200q0-54 20-105.5t62-93.5l157-157q42-42 93.5-62T558-840q118 0 200 82t82 200q0 54-20 105.5T758-359L601-202q-42 42-93.5 62T402-120Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['rounded/eraser_size_5']='M402-120q-118 0-200-82t-82-200q0-54 20-105.5t62-93.5l157-157q42-42 93.5-62T558-840q118 0 200 82t82 200q0 54-20 105.5T758-359L601-202q-42 42-93.5 62T402-120Z'

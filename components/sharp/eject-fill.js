@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-eject-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-200v-80h560v80H200Zm14-160 266-400 266 400H214Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/eject-fill']='M200-200v-80h560v80H200Zm14-160 266-400 266 400H214Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-ink_highlighter_off-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M665-408 448-625l192-191q24-24 56-24t56 24l104 104q24 24 24 56t-24 56L665-408ZM792-56 552-296 400-144q-24 24-56 24t-56-24l-2-2-26 26H60l126-126-2-2q-24-24-24-56t24-56l152-152L56-792l57-57 736 736-57 57Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['ink_highlighter_off-fill']='M665-408 448-625l192-191q24-24 56-24t56 24l104 104q24 24 24 56t-24 56L665-408ZM792-56 552-296 400-144q-24 24-56 24t-56-24l-2-2-26 26H60l126-126-2-2q-24-24-24-56t24-56l152-152L56-792l57-57 736 736-57 57Z'

@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-calendar_view_week-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M510-200v-560h135v560H510Zm-195 0v-560h135v560H315Zm-195 0v-560h135v560H120Zm585 0v-560h135v560H705Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/calendar_view_week-fill']='M510-200v-560h135v560H510Zm-195 0v-560h135v560H315Zm-195 0v-560h135v560H120Zm585 0v-560h135v560H705Z'

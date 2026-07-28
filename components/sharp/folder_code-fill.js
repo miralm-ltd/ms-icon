@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-folder_code-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M584-56 440-200l144-144 56 57-87 87 87 87-56 57Zm192 0-56-57 87-87-87-87 56-57 144 144L776-56ZM80-160v-640h320l80 80h400v280H600q-100 0-170 70t-70 170v40H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/folder_code-fill']='M584-56 440-200l144-144 56 57-87 87 87 87-56 57Zm192 0-56-57 87-87-87-87 56-57 144 144L776-56ZM80-160v-640h320l80 80h400v280H600q-100 0-170 70t-70 170v40H80Z'

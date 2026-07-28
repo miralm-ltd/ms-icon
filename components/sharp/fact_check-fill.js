@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-fact_check-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-280h200v-80H200v80Zm382-80 198-198-57-57-141 142-57-57-56 57 113 113Zm-382-80h200v-80H200v80Zm0-160h200v-80H200v80ZM80-120v-720h800v720H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/fact_check-fill']='M200-280h200v-80H200v80Zm382-80 198-198-57-57-141 142-57-57-56 57 113 113Zm-382-80h200v-80H200v80Zm0-160h200v-80H200v80ZM80-120v-720h800v720H80Z'

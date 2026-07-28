@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-call_received', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M200-200v-400h80v264l464-464 56 56-464 464h264v80H200Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/call_received']='M200-200v-400h80v264l464-464 56 56-464 464h264v80H200Z'

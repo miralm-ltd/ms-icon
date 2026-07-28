@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-rectangle-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-160v-640h800v640H80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/rectangle-fill']='M80-160v-640h800v640H80Z'

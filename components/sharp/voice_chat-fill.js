@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-voice_chat-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M240-520h60v-80h-60v80Zm100 80h60v-240h-60v240Zm110 80h60v-400h-60v400Zm110-80h60v-240h-60v240Zm100-80h60v-80h-60v80ZM80-80v-800h800v640H240L80-80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/voice_chat-fill']='M240-520h60v-80h-60v80Zm100 80h60v-240h-60v240Zm110 80h60v-400h-60v400Zm110-80h60v-240h-60v240Zm100-80h60v-80h-60v80ZM80-80v-800h800v640H240L80-80Z'

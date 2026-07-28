@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-title', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M420-160v-520H200v-120h560v120H540v520H420Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/title']='M420-160v-520H200v-120h560v120H540v520H420Z'

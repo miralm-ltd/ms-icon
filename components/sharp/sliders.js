@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-sharp-sliders', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M80-360v-240h800v240H80Zm480-80h240v-80H560v80Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['sharp/sliders']='M80-360v-240h800v240H80Zm480-80h240v-80H560v80Z'

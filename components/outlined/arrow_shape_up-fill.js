@@ -1,2 +1,2 @@
-import { define } from '../../element.js';
-define('ms-arrow_shape_up-fill', '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M320-120v-240H120l360-440 360 440H640v240H320Z"/></svg>');
+import { options } from '../../main.js'
+options.icons['arrow_shape_up-fill']='M320-120v-240H120l360-440 360 440H640v240H320Z'
